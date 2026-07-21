@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c9d8e1f2a3b4c5d6e7f8091a2b3c4d5, type: 3}
+  m_Name: WeaponEnhancementCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.WeaponCatalogAsset
+  CannonEnhancements:
+  - {fileID: 11400000, guid: 1a2b3c4d5e6f7890abcdef1234567890, type: 2}
+  - {fileID: 11400000, guid: d9b4386e5c48a9048b0b255cd23c7dd2, type: 2}
+  - {fileID: 11400000, guid: 1bfc13936c938c24da3779ff7cf71e3d, type: 2}
+  - {fileID: 11400000, guid: 43984c418fbdcca42b961faf2fca0ad5, type: 2}
+  MissileEnhancements:
+  - {fileID: 11400000, guid: 7492b4fcc052422a9318029690c0a526, type: 2}
+  - {fileID: 11400000, guid: edfb9734a2ac96243815cb162c228957, type: 2}
+  - {fileID: 11400000, guid: 04b6c07338255534581b41e57cee7964, type: 2}
+  - {fileID: 11400000, guid: 1f979eb431498a848917b4a420dfca25, type: 2}
+  AdditionalSegments:
+  - SegmentId: SG03_Trebuchet
+    Enhancements:
+    - {fileID: 11400000, guid: 90e3d1efa082f934b9994caeecc349ea, type: 2}
+    - {fileID: 11400000, guid: a9e7c339be7919e4e8ce80be517f06fb, type: 2}
+    - {fileID: 11400000, guid: 4d3f59adb56d01d408bdae12e73cab60, type: 2}
+    - {fileID: 11400000, guid: 6008a2d2d28887f4fbbf332ec0ab6792, type: 2}
+  - SegmentId: SG04_SawLauncher
+    Enhancements:
+    - {fileID: 11400000, guid: 10ddbcc61162e434d9add50a856f6e9a, type: 2}
+    - {fileID: 11400000, guid: ec7e1e14b4e64934a82eca92893774d5, type: 2}
+    - {fileID: 11400000, guid: 8334b64680c3f244e8addd7a80ca8bf0, type: 2}
+    - {fileID: 11400000, guid: 6d3bbb4aa939db846a299b3efba47abf, type: 2}
+  - SegmentId: SG20_LightningObelisk
+    Enhancements:
+    - {fileID: 11400000, guid: 8b956271ff33f704cae44582ec7eed9a, type: 2}
+    - {fileID: 11400000, guid: 4a55e3e951ac51848aab6b2ac267da00, type: 2}
+    - {fileID: 11400000, guid: 4fad2bc03d0ac914e8c2b6966e0e7d53, type: 2}
+  - SegmentId: SG06_Ballista
+    Enhancements:
+    - {fileID: 11400000, guid: fe16dc5a742488b4c8ccabc5112cc45c, type: 2}
+    - {fileID: 11400000, guid: c7519dd85d639694aa9580868fbeb70a, type: 2}
+    - {fileID: 11400000, guid: 14b41d2e380fdc54aa7b2596b93797aa, type: 2}
+    - {fileID: 11400000, guid: de4570ab30a7dcf47b4ffc467a36e1c2, type: 2}
+  - SegmentId: SG05_Flamethrower
+    Enhancements:
+    - {fileID: 11400000, guid: e017029af9f86d04486f47ddc3513517, type: 2}
+    - {fileID: 11400000, guid: b0bded4118cdcdb4aa133801824f0dde, type: 2}
+    - {fileID: 11400000, guid: c800b53acebf84d4990ee785e16ee41c, type: 2}
+    - {fileID: 11400000, guid: fce0e17ad2b2f3846aa7f0a54404c108, type: 2}
+  - SegmentId: SG22_IceCrystalOrb
+    Enhancements:
+    - {fileID: 11400000, guid: a4da312d765f84f468b50f297be65513, type: 2}
+    - {fileID: 11400000, guid: 8cd1c1e1e506deb4684f3b3a404c0f42, type: 2}
+    - {fileID: 11400000, guid: 3739b1db63e235643b0b8af800b5dcc5, type: 2}
+    - {fileID: 11400000, guid: afbeb78899377064dbc221f0a5bb8b77, type: 2}
+  - SegmentId: SG21_FireballTower
+    Enhancements:
+    - {fileID: 11400000, guid: 01d89cc6365619a45853f76ed418d7e4, type: 2}
+    - {fileID: 11400000, guid: ffd7d66668c27434b83898b42b132e29, type: 2}
+    - {fileID: 11400000, guid: 242b1bcd0b9a4b7498524bc632bafec5, type: 2}
+    - {fileID: 11400000, guid: 86e604ad7be8de54d94a8fd16569c3ed, type: 2}
+    - {fileID: 11400000, guid: bb8d7312699027849917f8cccccc1316, type: 2}

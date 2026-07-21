@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0869a2011a87a2b458bdf7e77b3c8a86, type: 3}
+  m_Name: SG00_StarterCannon
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentDefinition
+  SegmentId: SG00_StarterCannon
+  DisplayName: "\uAE30\uBCF8 \uC2DC\uC791 \uCE90\uB17C"
+  Description: "\uAE30\uBCF8 \uC9C0\uB801\uC774\uAC00 \uC2DC\uC791\uD560 \uB54C \uB4E4\uACE0
+    \uB098\uC624\uB294 \uCE90\uB17C"
+  StarterOnly: 1
+  SharedUpgradeSegmentId: SG01_Cannon
+  UseLevels: 1
+  MaxLevel: 3
+  CanAddByLevelChoice: 0
+  CanUpgradeByLevelChoice: 0
+  Levels:
+  - Level: 1
+    SegmentPrefab: {fileID: 5465292238323078893, guid: 8fba43e02b46558419bf99bd1627a9ed, type: 3}
+    BodyPrefab: {fileID: 3582883032514144815, guid: bca723c96d0cb2c4dbba45950e3d7f93, type: 3}
+    HeadPrefab: {fileID: 2077164409174653247, guid: d47fae6de2f576b44a62642519e1f1ba, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 870a62c35126ac64dba0793da019d33b, type: 2}
+    Memo: SG01_Cannon Lv1 starter full prefab
+  - Level: 2
+    SegmentPrefab: {fileID: 8298241742478431705, guid: 340719b5bffb8584cb170bb675d04857, type: 3}
+    BodyPrefab: {fileID: 3582883032514144815, guid: bca723c96d0cb2c4dbba45950e3d7f93, type: 3}
+    HeadPrefab: {fileID: 2063178214008462298, guid: d1e085858211dd94d826a08198dae51f, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 945b3b68acf3ec3459a60d57c3b25db9, type: 2}
+    Memo: SG01_Cannon Lv2 starter full prefab
+  - Level: 3
+    SegmentPrefab: {fileID: 7794215414799290519, guid: e47e16364192529469eabc28bbf73634, type: 3}
+    BodyPrefab: {fileID: 3582883032514144815, guid: bca723c96d0cb2c4dbba45950e3d7f93, type: 3}
+    HeadPrefab: {fileID: 6289885989267711942, guid: 57dd51634d8acb94880e918e2153e355, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 64ec46b9e76a8ca4eba875b11b4e15c2, type: 2}
+    Memo: SG01_Cannon Lv3 starter full prefab
+  CardIconSpritesPerLevel: []
+  CardIconSizeOffset: 0

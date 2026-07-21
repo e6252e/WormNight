@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef875c1cec6d6b409138c3f20b24dca, type: 3}
+  m_Name: SP_SG56_WormholePortal_Lv1
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentSupportAbilityProfile
+  AbilityKind: 6
+  StartsReady: 1
+  Cooldown: 12
+  ActiveDurationSeconds: 1.25
+  EffectDurationSeconds: 0
+  Range: 22
+  FrontSegmentCount: 0
+  BackSegmentCount: 0
+  FinalDamageMultiplier: 1
+  FinalAttackSpeedMultiplier: 1
+  IncomingDamageMultiplier: 1
+  ActiveVfxPrefab: {fileID: 0}
+  RangeVfxPrefab: {fileID: 0}
+  TargetBodyVfxPrefab: {fileID: 0}
+  EnemyDebuffVfxPrefab: {fileID: 0}
+  WormholeProjectilePrefab: {fileID: 8456205688575420250, guid: 43f45b3984749cd4b829098efb253a26, type: 3}
+  WormholeImpactVfxPrefab: {fileID: 201258384242495418, guid: 58eff778376cd114dab11db968bc62e4, type: 3}
+  WormholeTeleportOutVfxPrefab: {fileID: 0}
+  WormholeTeleportArrivalVfxPrefab: {fileID: 0}
+  WormholeProjectileSpeed: 18
+  WormholeProjectileHitRadius: 0.65
+  WormholeProjectileLifetime: 4
+  WormholeExplosionRadius: 5.5
+  WormholeTeleportMinNexusDistance: 40
+  WormholeTeleportMaxNexusDistance: 50
+  WormholeMaxTeleportTargets: 12
+  WormholeAffectBosses: 0
+  WormholeTargetAimHeight: 0.6
+  WormholeAimTurnSpeed: 720
+  WormholeFireAngleTolerance: 6
+  WormholeVfxLifetime: 3.2
+  WormholeVfxAlpha: 1
+  WormholeShowDebugRadius: 1
+  Memo: "\uC6DC\uD640\uD3EC\uD0C8 Lv1. \uD22C\uC0AC\uCCB4\uB294 vfx_BlueComet_01
+    \uB798\uD37C\uB97C \uC0AC\uC6A9\uD55C\uB2E4. \uBA85\uC911 \uD3ED\uBC1C
+    VFX \uADF8 \uC790\uCCB4\uAC00 \uBE14\uB799\uD640\uC774\uBA70, \uBC18\uACBD \uC548
+    \uBAAC\uC2A4\uD130\uB97C \uB125\uC11C\uC2A4 \uAE30\uC900 40~50m \uBC16 \uD55C
+    \uC9C0\uC810\uC73C\uB85C \uBAA8\uC544 \uC774\uB3D9\uC2DC\uD0A8\uB2E4. \uB3C4\uCC29
+    \uC9C0\uC810\uC5D0\uB3C4 \uAC19\uC740 \uD3ED\uBC1C \uBE14\uB799\uD640 VFX\uB97C
+    \uC2DC\uAC01 \uC694\uC18C\uB85C \uC7AC\uC0DD\uD55C\uB2E4. \uBCC4\uB3C4 \uCD9C\uBC1C/\uB3C4\uCC29
+    \uD3EC\uD138 VFX\uB294 \uC0AC\uC6A9\uD558\uC9C0 \uC54A\uB294\uB2E4. \uD53C\uD574
+    \uC5C6\uC74C."

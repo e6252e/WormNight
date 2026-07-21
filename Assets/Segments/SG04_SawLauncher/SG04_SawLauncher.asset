@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0869a2011a87a2b458bdf7e77b3c8a86, type: 3}
+  m_Name: SG04_SawLauncher
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentDefinition
+  SegmentId: SG04_SawLauncher
+  DisplayName: "\uD1B1\uB0A0\uBC1C\uC0AC\uAE30"
+  Description: "<color=#9B3A2F><b>[밀리]</b></color> <color=#6B5B3A>[연쇄]</color> 톱날을 발사해 경로상의 적을 관통하고, 명중 후 다른 적에게 연쇄됩니다."
+  StarterOnly: 0
+  SharedUpgradeSegmentId: 
+  UseLevels: 1
+  MaxLevel: 3
+  CanAddByLevelChoice: 1
+  CanUpgradeByLevelChoice: 1
+  Levels:
+  - Level: 1
+    SegmentPrefab: {fileID: 5307340147911305616, guid: f2351493b8788894eb8e055173c54ae8, type: 3}
+    BodyPrefab: {fileID: 1143166947767441740, guid: 269605ebc0ea7144c9baf3262b2010d3, type: 3}
+    HeadPrefab: {fileID: 4881393197802572646, guid: 509f41e6d6e1ee24c83b82f40298a5e3, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 971ac0da21c03ad4aa82b4cf6b4fbc1a, type: 2}
+    Memo: Straight saw blade x1 draft.
+  - Level: 2
+    SegmentPrefab: {fileID: 4737384778002737280, guid: 224d3014cf30b124ab1d3bb43f55f283, type: 3}
+    BodyPrefab: {fileID: 1143166947767441740, guid: 269605ebc0ea7144c9baf3262b2010d3, type: 3}
+    HeadPrefab: {fileID: 1454801516521342009, guid: d67e95fd1e98ba145a3d34e8c3735e96, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 2b4a906b0740baf4bad303f5d1a32d0a, type: 2}
+    Memo: Straight saw blades x2 sequential draft.
+  - Level: 3
+    SegmentPrefab: {fileID: 5832274464755231386, guid: 328e487ebd14a9340a6261a7a64301c7, type: 3}
+    BodyPrefab: {fileID: 2415375611796336525, guid: 90103bf23122df44d88a6f72393082fc, type: 3}
+    HeadPrefab: {fileID: 548891772545940372, guid: 0145ba0d32a4e304fa8d6dbf7f01e3d9, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 4ccda065091025040a10538b66502305, type: 2}
+    Memo: Straight saw blades x4 sequential draft.
+  CardIconSpritesPerLevel:
+  - {fileID: 21300000, guid: a014062990e05314c94cc224b79b2bb5, type: 3}
+  - {fileID: 21300000, guid: b36532758140fd345924c66c95710be8, type: 3}
+  - {fileID: 21300000, guid: 5951843d7fef1a64b8b53b1f7bea5475, type: 3}
+  CardIconSizeOffset: 0

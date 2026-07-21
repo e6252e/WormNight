@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5019bdfdcf0884995dbf6aa7aadd17, type: 3}
+  m_Name: AP_SG06_Ballista_Lv3
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentAttackProfile
+  DisplayName: SG06 Ballista Lv3
+  Description: "\uBCF4\uC2A4/\uC5D8\uB9AC\uD2B8 \uC6B0\uC120, \uAC00\uC7A5 \uBA3C
+    \uC801\uC744 \uC870\uC900\uD574 \uC881\uC740 \uBD80\uCC44\uAF34 \uAD00\uD1B5\uD654\uC0B4
+    3\uBC1C \uC138\uD2B8\uB97C 2\uD68C \uC21C\uCC28 \uBC1C\uC0AC\uD569\uB2C8\uB2E4."
+  MoveType: 1
+  ImpactType: 1
+  SearchRange: 28
+  TargetPriorityMode: 1
+  AttackAreaMode: 0
+  SideConeAngle: 100
+  TargetAimHeight: 0.55
+  AttackSpawnHeight: 0.72
+  BaseDamage: 14
+  Cooldown: 4.1
+  UseDamageTypeOverride: 1
+  DamageTypeOverride: 1
+  ApplyMonsterFeedback: 1
+  MonsterKnockbackDistance: 0.18
+  MonsterKnockbackDuration: 0.07
+  MonsterStaggerDuration: 0.05
+  MonsterExplosionFeedbackMultiplier: 2
+  MonsterPierceFeedbackMultiplier: 0.4
+  MonsterContinuousFeedbackMultiplier: 0
+  ProjectilePrefab: {fileID: 3124898351747819969, guid: 1a046797b51997c47a4c3e21cce523a1, type: 3}
+  ProjectileCount: 6
+  SpreadAngle: 6
+  FireProjectilesSequentially: 1
+  ProjectileVolleySize: 3
+  ProjectileFireDelay: 0.22
+  UseLoadedProjectileVisuals: 1
+  LoadedProjectileReloadRatio: 0.5
+  ProjectileScale: {x: 2.1, y: 2.1, z: 2.1}
+  ProjectileSpeed: 38
+  ProjectileHitRadius: 0.38
+  ProjectileLifetime: 5.2
+  PierceCount: 5
+  PiercingProjectileDamageRatio: 0.55
+  ArcHeight: 3
+  UseFlameMuzzleInfluence: 0
+  FlameMuzzleInfluenceStrength: 0.3
+  FlameMuzzleInfluenceRange: 0
+  RollAfterArcLanding: 0
+  LandingImpactRadius: 1.1
+  LandingRollDamageRadius: 0.75
+  LandingRollDistance: 0
+  LandingRollDuration: 0.35
+  LandingRollSpinSpeed: 720
+  ExplosionRadius: 3
+  ExplosionLifetime: 0.35
+  LaserDuration: 0.5
+  LaserTickInterval: 0.15
+  ChainRange: 4
+  MaxChainDepth: 3
+  ChainBranchCount: 2
+  ChainDelay: 0.06
+  ChainLineVfxLifetime: 0.4
+  ChainDamageFalloff: 0.5
+  SawPierceDamageRatio: 0.5
+  SawTargetMinDistanceRatio: 0.5
+  SawSpinSpeed: 1440
+  RequireAimBeforeFire: 1
+  HeadTurnSpeed: 420
+  FireAngleTolerance: 8
+  ContinueAimingDuringProjectileSequence: 1
+  FiringHeadTurnSpeedMultiplier: 0.75
+  UseMuzzleDirectionDuringProjectileSequence: 0
+  MuzzleVfxPrefab: {fileID: 0}
+  MuzzleVfxLifetime: 1.5
+  MuzzleVfxScale: {x: 1, y: 1, z: 1}
+  HitVfxPrefab: {fileID: 0}
+  HitVfxLifetime: 2
+  ExplosionVfxPrefab: {fileID: 0}
+  ExplosionVfxLifetime: 2
+  ExplosionVfxAlpha: 0.28
+  RecoilDistance: 0.045
+  RecoilTiltAngle: 1.2
+  RecoilKickDuration: 0.05
+  RecoilReturnDuration: 0.14
+  RecoilSettleDistanceRatio: 0.22
+  RecoilSettleTiltRatio: 0.35
+  RecoilSettleDuration: 0.12

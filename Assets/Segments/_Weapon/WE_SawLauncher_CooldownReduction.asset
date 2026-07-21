@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a0f8e3dff97434fb869669e78b80a7a, type: 3}
+  m_Name: WE_SawLauncher_CooldownReduction
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.WeaponDefinition
+  EnhancementId: WE_SawLauncher_CooldownReduction
+  DisplayName: "\uD1B1\uB0A0\uBC1C\uC0AC\uAE30\uAC15\uD654"
+  Description: "\uCFE8\uD0C0\uC784 (N) \uAC10\uC18C"
+  TargetSegmentId: SG04_SawLauncher
+  BaseDamage: 0
+  BaseDamageUsePercent: 0
+  BaseDamageRare: 0
+  BaseDamageUsePercentRare: 0
+  BaseDamageUnique: 0
+  BaseDamageUsePercentUnique: 0
+  SawPierceDamageRatio: 0
+  SawPierceDamageRatioRare: 0
+  SawPierceDamageRatioUnique: 0
+  ProjectileSpeed: 0
+  ProjectileSpeedUsePercent: 0
+  ProjectileSpeedRare: 0
+  ProjectileSpeedUsePercentRare: 0
+  ProjectileSpeedUnique: 0
+  ProjectileSpeedUsePercentUnique: 0
+  SearchRange: 0
+  SearchRangeUsePercent: 0
+  SearchRangeRare: 0
+  SearchRangeUsePercentRare: 0
+  SearchRangeUnique: 0
+  SearchRangeUsePercentUnique: 0
+  MaxChainDepth: 0
+  MaxChainDepthRare: 0
+  MaxChainDepthUnique: 0
+  ChainRange: 0
+  ChainRangeUsePercent: 0
+  ChainRangeRare: 0
+  ChainRangeUsePercentRare: 0
+  ChainRangeUnique: 0
+  ChainRangeUsePercentUnique: 0
+  ChainDamageFalloff: 0
+  ChainDamageFalloffRare: 0
+  ChainDamageFalloffUnique: 0
+  ProjectileCount: 0
+  ProjectileCountRare: 0
+  ProjectileCountUnique: 0
+  CooldownReduction: 0.06
+  CooldownReductionRare: 0.1
+  CooldownReductionUnique: 0.15
+  SideConeAngle: 0
+  SideConeAngleRare: 0
+  SideConeAngleUnique: 0
+  LaserDuration: 0
+  LaserDurationUsePercent: 0
+  LaserDurationRare: 0
+  LaserDurationUsePercentRare: 0
+  LaserDurationUnique: 0
+  LaserDurationUsePercentUnique: 0
+  LaserTickInterval: 0
+  LaserTickIntervalRare: 0
+  LaserTickIntervalUnique: 0
+  LandingRollDistance: 0
+  LandingRollDistanceUsePercent: 0
+  LandingRollDistanceRare: 0
+  LandingRollDistanceUsePercentRare: 0
+  LandingRollDistanceUnique: 0
+  LandingRollDistanceUsePercentUnique: 0
+  LandingRollDuration: 0
+  LandingRollDurationUsePercent: 0
+  LandingRollDurationRare: 0
+  LandingRollDurationUsePercentRare: 0
+  LandingRollDurationUnique: 0
+  LandingRollDurationUsePercentUnique: 0
+  PierceCount: 0
+  PierceCountRare: 0
+  PierceCountUnique: 0
+  ExplosionRadius: 0
+  ExplosionRadiusUsePercent: 0
+  ExplosionRadiusRare: 0
+  ExplosionRadiusUsePercentRare: 0
+  ExplosionRadiusUnique: 0
+  ExplosionRadiusUsePercentUnique: 0
+  CardPrefabOverride: {fileID: 0}
+  CardIconSprite: {fileID: 21300000, guid: a014062990e05314c94cc224b79b2bb5, type: 3}
+  CardIconSpritesPerLevel:
+  - {fileID: 21300000, guid: a014062990e05314c94cc224b79b2bb5, type: 3}
+  - {fileID: 21300000, guid: b36532758140fd345924c66c95710be8, type: 3}
+  - {fileID: 21300000, guid: 5951843d7fef1a64b8b53b1f7bea5475, type: 3}
+  CardIconSizeOffset: 0

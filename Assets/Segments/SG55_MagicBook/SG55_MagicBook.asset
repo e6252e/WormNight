@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0869a2011a87a2b458bdf7e77b3c8a86, type: 3}
+  m_Name: SG55_MagicBook
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentDefinition
+  SegmentId: SG55_MagicBook
+  DisplayName: "\uB9C8\uBC95\uCC45"
+  Description: "<color=#2E7D59><b>[지원]</b></color> <color=#6B5B3A>[토템]</color> 장착한 마법책 하나당 카드 리롤 기회를 1회 얻습니다."
+  StarterOnly: 0
+  SharedUpgradeSegmentId: 
+  UseLevels: 1
+  MaxLevel: 1
+  CanAddByLevelChoice: 1
+  CanUpgradeByLevelChoice: 0
+  Levels:
+  - Level: 1
+    SegmentPrefab: {fileID: 2822963803984681280, guid: e2482fade4ec6a149b39a461e88ffaaf, type: 3}
+    BodyPrefab: {fileID: 2894136110198890850, guid: 87dcfb70d87b2264d83db394c1d4c959, type: 3}
+    HeadPrefab: {fileID: 6916355584155952904, guid: 198d1b90b941d39429d08c9b65225733, type: 3}
+    AttackProfile: {fileID: 0}
+    Memo: "\uAE30\uB2A5 \uC5C6\uC74C. SP_SG55_MagicBook_Lv1\uC740 AbilityKind=None\uC774\uBA70
+      \uCE74\uB4DC \uB9AC\uB864 +1 \uC5F0\uB3D9 \uC804 \uB4F1\uB85D\uC6A9."
+  CardIconSpritesPerLevel:
+  - {fileID: 21300000, guid: c9239dd96c549db4aa6987f99b070047, type: 3}
+  CardIconSizeOffset: 0

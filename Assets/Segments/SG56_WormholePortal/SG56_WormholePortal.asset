@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0869a2011a87a2b458bdf7e77b3c8a86, type: 3}
+  m_Name: SG56_WormholePortal
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentDefinition
+  SegmentId: SG56_WormholePortal
+  DisplayName: "\uC6DC\uD640\uD3EC\uD0C8"
+  Description: "<color=#2E7D59><b>[\uC9C0\uC6D0]</b></color> <color=#4776C8>[\uACF5\uAC04\uC81C\uC5B4]</color>
+    \uB125\uC11C\uC2A4\uC5D0 \uAC00\uC7A5 \uAC00\uAE4C\uC6B4 \uC801\uC5D0\uAC8C \uC6DC\uD640
+    \uD22C\uC0AC\uCCB4\uB97C \uB358\uC838 \uBC94\uC704 \uC801\uC744 \uB125\uC11C\uC2A4
+    \uBC14\uAE65 40~50m\uB85C \uC774\uB3D9\uC2DC\uD0B5\uB2C8\uB2E4."
+  StarterOnly: 0
+  SharedUpgradeSegmentId: 
+  UseLevels: 1
+  MaxLevel: 1
+  CanAddByLevelChoice: 1
+  CanUpgradeByLevelChoice: 0
+  Levels:
+  - Level: 1
+    SegmentPrefab: {fileID: 2699947933078172068, guid: d920c30ab28c2af4cba5060b8411f804, type: 3}
+    BodyPrefab: {fileID: 2894136110198890850, guid: 87dcfb70d87b2264d83db394c1d4c959, type: 3}
+    HeadPrefab: {fileID: 4222694943672249481, guid: fe259f2b1e066d74b9e269b8e726416c, type: 3}
+    AttackProfile: {fileID: 0}
+    Memo: "SP_SG56_WormholePortal_Lv1 \uD504\uB85C\uD544 \uC0AC\uC6A9. \uD53C\uD574
+      \uC5C6\uC774 \uBC94\uC704 \uBAAC\uC2A4\uD130\uB97C \uB125\uC11C\uC2A4 \uAE30\uC900
+      \uC678\uACFD\uC73C\uB85C \uD154\uB808\uD3EC\uD2B8."
+  CardIconSpritesPerLevel:
+  - {fileID: 21300000, guid: b0b52ad66dc50f041bc6225ffef4aaab, type: 3}
+  CardIconSizeOffset: 0

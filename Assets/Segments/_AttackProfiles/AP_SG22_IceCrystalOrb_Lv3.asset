@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5019bdfdcf0884995dbf6aa7aadd17, type: 3}
+  m_Name: AP_SG22_IceCrystalOrb_Lv3
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentAttackProfile
+  DisplayName: SG22 Ice Crystal Orb Lv3
+  Description: "\uC0AC\uAC70\uB9AC \uB0B4 0.5m \uBC18\uACBD\uC5D0 5\uB9C8\uB9AC \uC774\uC0C1
+    \uBAA8\uC778 \uC9C0\uC810\uC744 \uC6B0\uC120 \uD0C0\uACA9\uD558\uACE0, \uC5C6\uC73C\uBA74
+    \uC0AC\uAC70\uB9AC \uB0B4 \uBB34\uC791\uC704 \uC801\uC5D0\uAC8C \uC5BC\uC74C\uC218\uC815\uC744
+    \uB5A8\uC5B4\uB728\uB9BD\uB2C8\uB2E4."
+  MoveType: 2
+  ImpactType: 2
+  SearchRange: 26
+  TargetPriorityMode: 2
+  AttackAreaMode: 0
+  SideConeAngle: 100
+  ClusterProbeRadius: 0.5
+  ClusterMinEnemyCount: 5
+  TargetAimHeight: 0.45
+  AttackSpawnHeight: 0.72
+  BaseDamage: 10.5
+  Cooldown: 6.1
+  UseDamageTypeOverride: 1
+  DamageTypeOverride: 4
+  ApplyMonsterFeedback: 1
+  MonsterKnockbackDistance: 0
+  MonsterKnockbackDuration: 0.08
+  MonsterStaggerDuration: 0.06
+  MonsterExplosionFeedbackMultiplier: 2
+  MonsterPierceFeedbackMultiplier: 0.35
+  MonsterContinuousFeedbackMultiplier: 0
+  ProjectilePrefab: {fileID: 3869129429392289009, guid: 9b323cb6a771060488b1106441d162dd, type: 3}
+  ProjectileCount: 3
+  SpreadAngle: 0
+  FireProjectilesSequentially: 1
+  ProjectileVolleySize: 1
+  ProjectileFireDelay: 0.2
+  UseLoadedProjectileVisuals: 1
+  LoadedProjectileReloadRatio: 0.5
+  ProjectileScale: {x: 1.2, y: 1.2, z: 1.2}
+  ProjectileVfxScale: {x: 0, y: 0, z: 0}
+  ProjectileSpeed: 18
+  ProjectileHitRadius: 0.45
+  ProjectileLifetime: 6
+  PierceCount: 1
+  PiercingProjectileDamageRatio: 1
+  ArcHeight: 5.2
+  UseVerticalImpactDrop: 1
+  VerticalImpactDropHeight: 14
+  UseFlameMuzzleInfluence: 0
+  FlameMuzzleInfluenceStrength: 0.3
+  FlameMuzzleInfluenceRange: 0
+  RollAfterArcLanding: 0
+  LandingImpactRadius: 1.1
+  LandingRollDamageRadius: 0.75
+  LandingRollDamageRatio: 1
+  LandingRollDistance: 0
+  LandingRollDuration: 0.35
+  LandingRollSpinSpeed: 720
+  ExplosionRadius: 3.8
+  ExplosionLifetime: 0.35
+  AreaTelegraphPrefab: {fileID: 7126986898149646117, guid: 2c2f8a10eb284724593677ee270d61d0, type: 3}
+  AreaTelegraphGroundOffset: 0.025
+  AreaTelegraphAlpha: 0.34
+  SlowMoveSpeedMultiplier: 0.6
+  SlowDuration: 2.4
+  StatusEffectOnHit: 2
+  StatusEffectVfxPrefab: {fileID: 5023800424400518386, guid: 0656b1bbd668f20498f723323f81813a, type: 3}
+  LaserDuration: 0.5
+  LaserTickInterval: 0.15
+  ChainRange: 4
+  MaxChainDepth: 3
+  ChainBranchCount: 2
+  ChainDelay: 0.06
+  ChainLineVfxLifetime: 0.4
+  ChainDamageFalloff: 0.5
+  SawPierceDamageRatio: 0.5
+  SawTargetMinDistanceRatio: 0.5
+  SawSpinSpeed: 1440
+  RequireAimBeforeFire: 0
+  HeadTurnSpeed: 420
+  FireAngleTolerance: 12
+  ContinueAimingDuringProjectileSequence: 0
+  FiringHeadTurnSpeedMultiplier: 1
+  UseMuzzleDirectionDuringProjectileSequence: 0
+  MuzzleVfxPrefab: {fileID: 2711143355130201332, guid: d1b4ba90dfa5dad479ebe045da58ea1a, type: 3}
+  MuzzleVfxLifetime: 1.5
+  MuzzleVfxScale: {x: 1, y: 1, z: 1}
+  HitVfxPrefab: {fileID: 0}
+  HitVfxLifetime: 2
+  ExplosionVfxPrefab: {fileID: 1457823892040900873, guid: 641a52524bfc82646acc34913056ec50, type: 3}
+  ExplosionVfxLifetime: 2.5
+  ExplosionVfxAlpha: 1
+  RecoilDistance: 0.025
+  RecoilTiltAngle: 0.5
+  RecoilKickDuration: 0.05
+  RecoilReturnDuration: 0.14
+  RecoilSettleDistanceRatio: 0.12
+  RecoilSettleTiltRatio: 0.15
+  RecoilSettleDuration: 0.1

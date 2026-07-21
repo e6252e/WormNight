@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5019bdfdcf0884995dbf6aa7aadd17, type: 3}
+  m_Name: AP_SG01_Cannon_Lv3
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentAttackProfile
+  DisplayName: SG01 Cannon Lv3
+  Description: "\uC9C1\uC120 \uD22C\uC0AC\uCCB4 3\uBC1C\uC744 \uB354 \uBE60\uB974\uAC8C
+    \uBC1C\uC0AC\uD558\uB294 SG01 \uCE90\uB17C \uB808\uBCA8 3 \uACF5\uACA9"
+  MoveType: 0
+  ImpactType: 0
+  SearchRange: 20
+  TargetPriorityMode: 0
+  AttackAreaMode: 1
+  SideConeAngle: 100
+  ClusterProbeRadius: 0.5
+  ClusterMinEnemyCount: 5
+  TargetAimHeight: 0.45
+  AttackSpawnHeight: 0.42
+  BaseDamage: 17
+  Cooldown: 3.15
+  UseDamageTypeOverride: 0
+  DamageTypeOverride: 1
+  ApplyMonsterFeedback: 1
+  MonsterKnockbackDistance: 0.25
+  MonsterKnockbackDuration: 0.08
+  MonsterStaggerDuration: 0.06
+  MonsterExplosionFeedbackMultiplier: 2
+  MonsterPierceFeedbackMultiplier: 0.35
+  MonsterContinuousFeedbackMultiplier: 0
+  ProjectilePrefab: {fileID: 3922023557786018810, guid: 4e91739c6393cdf428835bc618ff8e7a, type: 3}
+  ProjectileCount: 6
+  SpreadAngle: 0
+  FireProjectilesSequentially: 1
+  ProjectileVolleySize: 1
+  ProjectileFireDelay: 0.2
+  UseLoadedProjectileVisuals: 0
+  LoadedProjectileReloadRatio: 0.5
+  ProjectileScale: {x: 0, y: 0, z: 0}
+  ProjectileSpeed: 31.2
+  ProjectileHitRadius: 0.55
+  ProjectileLifetime: 5
+  PierceCount: 1
+  PiercingProjectileDamageRatio: 1
+  ArcHeight: 3
+  UseVerticalImpactDrop: 0
+  VerticalImpactDropHeight: 10
+  UseFlameMuzzleInfluence: 0
+  FlameMuzzleInfluenceStrength: 0.3
+  FlameMuzzleInfluenceRange: 0
+  RollAfterArcLanding: 0
+  LandingImpactRadius: 1.1
+  LandingRollDamageRadius: 0.75
+  LandingRollDamageRatio: 1
+  LandingRollDistance: 0
+  LandingRollDuration: 0.35
+  LandingRollSpinSpeed: 720
+  ExplosionRadius: 3
+  ExplosionLifetime: 0.35
+  AreaTelegraphPrefab: {fileID: 0}
+  AreaTelegraphGroundOffset: 0.025
+  AreaTelegraphAlpha: 0.35
+  SlowMoveSpeedMultiplier: 1
+  SlowDuration: 0
+  LaserDuration: 0.5
+  LaserTickInterval: 0.15
+  ChainRange: 4
+  MaxChainDepth: 3
+  ChainBranchCount: 2
+  ChainDelay: 0.06
+  ChainLineVfxLifetime: 0.4
+  ChainDamageFalloff: 0.5
+  SawPierceDamageRatio: 0.5
+  SawTargetMinDistanceRatio: 0.5
+  SawSpinSpeed: 1440
+  RequireAimBeforeFire: 1
+  HeadTurnSpeed: 540
+  FireAngleTolerance: 8
+  ContinueAimingDuringProjectileSequence: 0
+  FiringHeadTurnSpeedMultiplier: 1
+  UseMuzzleDirectionDuringProjectileSequence: 0
+  MuzzleVfxPrefab: {fileID: 3082853613590577020, guid: feda8b505230de04da9dd3eb1657e4d3, type: 3}
+  MuzzleVfxLifetime: 1.5
+  MuzzleVfxScale: {x: 1, y: 1, z: 1}
+  HitVfxPrefab: {fileID: 868468853075218060, guid: 28aa90600df2fd9479eb5ccbc39a3fc1, type: 3}
+  HitVfxLifetime: 2
+  ExplosionVfxPrefab: {fileID: 0}
+  ExplosionVfxLifetime: 2
+  ExplosionVfxAlpha: 0.28
+  RecoilDistance: 0.18
+  RecoilTiltAngle: 5
+  RecoilKickDuration: 0.07
+  RecoilReturnDuration: 0.26
+  RecoilSettleDistanceRatio: 0.16
+  RecoilSettleTiltRatio: 0.3
+  RecoilSettleDuration: 0.16

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef875c1cec6d6b409138c3f20b24dca, type: 3}
+  m_Name: SP_SG52_FrostBell_Lv1
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentSupportAbilityProfile
+  AbilityKind: 3
+  StartsReady: 1
+  Cooldown: 10
+  ActiveDurationSeconds: 0.1
+  EffectDurationSeconds: 5
+  Range: 12
+  FrontSegmentCount: 0
+  BackSegmentCount: 0
+  FinalDamageMultiplier: 1
+  FinalAttackSpeedMultiplier: 1
+  IncomingDamageMultiplier: 1
+  ActiveVfxPrefab: {fileID: 0}
+  RangeVfxPrefab: {fileID: 3047794884592860430, guid: 9f03099fb63884043a1a31ebd8ee756d, type: 3}
+  TargetBodyVfxPrefab: {fileID: 0}
+  EnemyDebuffVfxPrefab: {fileID: 5023800424400518386, guid: 0656b1bbd668f20498f723323f81813a, type: 3}
+  EnemyStatusEffect: 2
+  WormholeProjectilePrefab: {fileID: 0}
+  WormholeImpactVfxPrefab: {fileID: 0}
+  WormholeTeleportOutVfxPrefab: {fileID: 0}
+  WormholeTeleportArrivalVfxPrefab: {fileID: 0}
+  WormholeProjectileSpeed: 18
+  WormholeProjectileHitRadius: 0.6
+  WormholeProjectileLifetime: 4
+  WormholeExplosionRadius: 5
+  WormholeTeleportMinNexusDistance: 40
+  WormholeTeleportMaxNexusDistance: 50
+  WormholeMaxTeleportTargets: 12
+  WormholeAffectBosses: 0
+  WormholeTargetAimHeight: 0.6
+  WormholeAimTurnSpeed: 720
+  WormholeFireAngleTolerance: 6
+  WormholeVfxLifetime: 1.5
+  WormholeVfxAlpha: 1
+  WormholeShowDebugRadius: 1
+  Memo: "10\uCD08\uB9C8\uB2E4 \uC0AC\uAC70\uB9AC 12 \uC548\uC5D0\uC11C \uC801 \uBC00\uC9D1
+    \uC9C0\uC810\uC744 \uC6B0\uC120 \uC120\uD0DD\uD574 \uBC18\uACBD 4.5 \uC6D0\uD615
+    \uC7A5\uD310\uC744 1\uD68C \uC0DD\uC131\uD558\uACE0, \uC7A5\uD310 \uBC94\uC704
+    \uC801\uC744 5\uCD08 \uB3D9\uC548 \uB3D9\uACB0\uC2DC\uD0A8\uB2E4. VFX\uB294 vfx_DebuffAoE02_Ice
+    \uAE30\uBC18 \uC2DC\uAC01 \uC694\uC18C\uB2E4."

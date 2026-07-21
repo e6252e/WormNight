@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef875c1cec6d6b409138c3f20b24dca, type: 3}
+  m_Name: SP_SG50_WarDrum_Lv1
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentSupportAbilityProfile
+  AbilityKind: 1
+  StartsReady: 1
+  Cooldown: 5
+  ActiveDurationSeconds: 5
+  EffectDurationSeconds: 5
+  Range: 0
+  FrontSegmentCount: 2
+  BackSegmentCount: 2
+  FinalDamageMultiplier: 1.3
+  FinalAttackSpeedMultiplier: 1
+  IncomingDamageMultiplier: 1
+  ActiveVfxPrefab: {fileID: 0}
+  RangeVfxPrefab: {fileID: 0}
+  TargetBodyVfxPrefab: {fileID: 5271859627431015221, guid: 2c4df4b9e7394d74981511d8187bc151, type: 3}
+  EnemyDebuffVfxPrefab: {fileID: 0}
+  EnemyStatusEffect: 0
+  WormholeProjectilePrefab: {fileID: 0}
+  WormholeImpactVfxPrefab: {fileID: 0}
+  WormholeTeleportOutVfxPrefab: {fileID: 0}
+  WormholeTeleportArrivalVfxPrefab: {fileID: 0}
+  WormholeProjectileSpeed: 18
+  WormholeProjectileHitRadius: 0.6
+  WormholeProjectileLifetime: 4
+  WormholeExplosionRadius: 5
+  WormholeTeleportMinNexusDistance: 40
+  WormholeTeleportMaxNexusDistance: 50
+  WormholeMaxTeleportTargets: 12
+  WormholeAffectBosses: 0
+  WormholeTargetAimHeight: 0.6
+  WormholeAimTurnSpeed: 720
+  WormholeFireAngleTolerance: 6
+  WormholeVfxLifetime: 1.5
+  WormholeVfxAlpha: 1
+  WormholeShowDebugRadius: 1
+  Memo: "\uBC1C\uB3D9 \uC911 \uC55E 2\uCE78/\uB4A4 2\uCE78 \uC544\uAD70 \uC138\uADF8\uBA3C\uD2B8\uC758
+    \uCD5C\uC885 \uB370\uBBF8\uC9C0\uB97C 30% \uC99D\uAC00\uC2DC\uD0A8\uB2E4."

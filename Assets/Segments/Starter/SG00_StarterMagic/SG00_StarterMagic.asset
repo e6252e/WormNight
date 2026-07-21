@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0869a2011a87a2b458bdf7e77b3c8a86, type: 3}
+  m_Name: SG00_StarterMagic
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentDefinition
+  SegmentId: SG00_StarterMagic
+  DisplayName: "\uB9C8\uBC95\uD615 \uC2DC\uC791 \uC804\uAE30"
+  Description: "\uB9C8\uBC95\uD615 \uC9C0\uB801\uC774\uAC00 \uC2DC\uC791\uD560 \uB54C
+    \uC7A5\uCC29\uD558\uB294 \uC804\uAE30 \uC624\uBCA8\uB9AC\uC2A4\uD06C \uC2A4\uD0C0\uD130
+    \uC138\uADF8\uBA3C\uD2B8\uC785\uB2C8\uB2E4."
+  StarterOnly: 1
+  SharedUpgradeSegmentId: SG20_LightningObelisk
+  UseLevels: 1
+  MaxLevel: 3
+  CanAddByLevelChoice: 0
+  CanUpgradeByLevelChoice: 0
+  Levels:
+  - Level: 1
+    SegmentPrefab: {fileID: 5093949293187541120, guid: f810c2bd94c225a409fab666af3aa52e, type: 3}
+    BodyPrefab: {fileID: 2448197398968343652, guid: 8d0cdb66d9af6d04fb98ff8638675cb5, type: 3}
+    HeadPrefab: {fileID: 9096743896839812948, guid: dbbc8d5d40109774085d6cc3ef916eec, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 29c6d4b5c5861cb41a6c967648f7502b, type: 2}
+    Memo: SG20_LightningObelisk Lv1 starter full prefab
+  - Level: 2
+    SegmentPrefab: {fileID: 336348286090214604, guid: 5260812df1f9e0e4aad24eb531e282a3, type: 3}
+    BodyPrefab: {fileID: 2448197398968343652, guid: 8d0cdb66d9af6d04fb98ff8638675cb5, type: 3}
+    HeadPrefab: {fileID: 5781965588660484066, guid: 01af75c632bdb91469073be03ca2a790, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 3696379563a0bfc41a9b34e0c89a73bb, type: 2}
+    Memo: SG20_LightningObelisk Lv2 starter full prefab
+  - Level: 3
+    SegmentPrefab: {fileID: 6824411412070273652, guid: 1851e31a198c7b5479f9ee02b35a7df0, type: 3}
+    BodyPrefab: {fileID: 2448197398968343652, guid: 8d0cdb66d9af6d04fb98ff8638675cb5, type: 3}
+    HeadPrefab: {fileID: 5644814152176499879, guid: 8479603edaa19a54f99b0e7e41798114, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 861dd6c169dc12e4180be0db03fba1d3, type: 2}
+    Memo: SG20_LightningObelisk Lv3 starter full prefab
+  CardIconSpritesPerLevel: []
+  CardIconSizeOffset: 0

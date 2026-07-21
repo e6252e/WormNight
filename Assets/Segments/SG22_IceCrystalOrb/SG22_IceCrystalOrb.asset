@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0869a2011a87a2b458bdf7e77b3c8a86, type: 3}
+  m_Name: SG22_IceCrystalOrb
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentDefinition
+  SegmentId: SG22_IceCrystalOrb
+  DisplayName: "\uC5BC\uC74C \uC218\uC815\uAD6C"
+  Description: "<color=#2F6BFF><b>[마법]</b></color> <color=#6B5B3A>[범위] [감속]</color> 밀집한 적에게 얼음 수정을 떨어뜨려 범위 피해와 감속을 줍니다."
+  StarterOnly: 0
+  SharedUpgradeSegmentId: 
+  UseLevels: 1
+  MaxLevel: 3
+  CanAddByLevelChoice: 1
+  CanUpgradeByLevelChoice: 1
+  Levels:
+  - Level: 1
+    SegmentPrefab: {fileID: 6262874773146668289, guid: a5e0e09f0b6dddf4dab150eb9c86c29c, type: 3}
+    BodyPrefab: {fileID: 2148103711033173953, guid: 860225745922ead43827e6d3ce0d4cc0, type: 3}
+    HeadPrefab: {fileID: 5459839030015713292, guid: 69f1d6b30acb98e439b607e4b42e3865, type: 3}
+    AttackProfile: {fileID: 11400000, guid: a08ce6040f6530a4da4cc3cff9ccec26, type: 2}
+    Memo: 'Lv1: dense cluster ice impact.'
+  - Level: 2
+    SegmentPrefab: {fileID: 8586955679483099088, guid: 675caafa3b49a094fa5961f9bf068208, type: 3}
+    BodyPrefab: {fileID: 2148103711033173953, guid: 860225745922ead43827e6d3ce0d4cc0, type: 3}
+    HeadPrefab: {fileID: 6182124862587360861, guid: 74cb114f86540fa4b9284a92d19fc87e, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 9dd40e9ff7e1f534987f15e45f54bb86, type: 2}
+    Memo: 'Lv2: dense cluster ice impact.'
+  - Level: 3
+    SegmentPrefab: {fileID: 561849654272857886, guid: 5e782b7241f470d46a6b7d750cc009dd, type: 3}
+    BodyPrefab: {fileID: 3814735659483884719, guid: e2405f52b493b1e42946b9bb7e70aa1c, type: 3}
+    HeadPrefab: {fileID: 8156389625180885353, guid: 9bd3a0937ccd2b74b93b1fea1b157597, type: 3}
+    AttackProfile: {fileID: 11400000, guid: d159e35f3b07d8047bbc23165b4ce1b3, type: 2}
+    Memo: 'Lv3: 3 sequential ice crystals.'
+  CardIconSpritesPerLevel:
+  - {fileID: 21300000, guid: 496e87a08d34d874da206b30e5707856, type: 3}
+  - {fileID: 21300000, guid: 9aa73506859697442bc01e5498598516, type: 3}
+  - {fileID: 21300000, guid: 25ba9d961064b1341872bbd4730569fc, type: 3}
+  CardIconSizeOffset: 0

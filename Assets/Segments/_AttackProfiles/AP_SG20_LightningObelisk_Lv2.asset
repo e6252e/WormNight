@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5019bdfdcf0884995dbf6aa7aadd17, type: 3}
+  m_Name: AP_SG20_LightningObelisk_Lv2
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentAttackProfile
+  DisplayName: Lightning Obelisk Lv2
+  Description: "\uCCAB \uBAAC\uC2A4\uD130\uC5D0\uAC8C \uC804\uAE30\uB97C \uBCF4\uB0B4\uACE0
+    \uC8FC\uBCC0 \uBAAC\uC2A4\uD130\uB85C \uC5F0\uC1C4 \uBC88\uAC1C\uB97C \uD37C\uB728\uB9B0\uB2E4."
+  MoveType: 5
+  ImpactType: 4
+  SearchRange: 12
+  AttackAreaMode: 1
+  SideConeAngle: 100
+  TargetAimHeight: 0.55
+  AttackSpawnHeight: 0.75
+  BaseDamage: 14
+  Cooldown: 3.85
+  ApplyMonsterFeedback: 1
+  MonsterKnockbackDistance: 0.25
+  MonsterKnockbackDuration: 0.08
+  MonsterStaggerDuration: 0.06
+  MonsterExplosionFeedbackMultiplier: 2
+  MonsterPierceFeedbackMultiplier: 0.35
+  MonsterContinuousFeedbackMultiplier: 0
+  ProjectilePrefab: {fileID: 0}
+  ProjectileCount: 1
+  SpreadAngle: 0
+  FireProjectilesSequentially: 0
+  ProjectileFireDelay: 0.18
+  UseLoadedProjectileVisuals: 1
+  LoadedProjectileReloadRatio: 0
+  ProjectileScale: {x: 0, y: 0, z: 0}
+  ProjectileSpeed: 20
+  ProjectileHitRadius: 0.5
+  ProjectileLifetime: 5
+  PierceCount: 3
+  ArcHeight: 3
+  RollAfterArcLanding: 0
+  LandingImpactRadius: 1.1
+  LandingRollDamageRadius: 0.75
+  LandingRollDistance: 0
+  LandingRollDuration: 0.35
+  LandingRollSpinSpeed: 720
+  ExplosionRadius: 3
+  ExplosionLifetime: 0.35
+  LaserDuration: 0.5
+  LaserTickInterval: 0.15
+  ChainRange: 9
+  MaxChainDepth: 3
+  ChainBranchCount: 2
+  ChainDelay: 0.06
+  ChainLineVfxLifetime: 0.3
+  ChainDamageFalloff: 0.58
+  SawPierceDamageRatio: 0.5
+  SawTargetMinDistanceRatio: 0.5
+  SawSpinSpeed: 1440
+  RequireAimBeforeFire: 1
+  HeadTurnSpeed: 560
+  FireAngleTolerance: 12
+  MuzzleVfxPrefab: {fileID: 0}
+  MuzzleVfxLifetime: 0.8
+  HitVfxPrefab: {fileID: 5481534588886704024, guid: 055d052369ae1114da7ddf76c1446167, type: 3}
+  HitVfxLifetime: 0.9
+  ExplosionVfxPrefab: {fileID: 0}
+  ExplosionVfxLifetime: 2
+  ExplosionVfxAlpha: 0.28
+  RecoilDistance: 0.025
+  RecoilTiltAngle: 0.7
+  RecoilKickDuration: 0.05
+  RecoilReturnDuration: 0.13
+  RecoilSettleDistanceRatio: 0.15
+  RecoilSettleTiltRatio: 0.2
+  RecoilSettleDuration: 0.1

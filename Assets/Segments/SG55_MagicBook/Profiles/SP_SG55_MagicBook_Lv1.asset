@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ef875c1cec6d6b409138c3f20b24dca, type: 3}
+  m_Name: SP_SG55_MagicBook_Lv1
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentSupportAbilityProfile
+  AbilityKind: 0
+  StartsReady: 0
+  Cooldown: 999999
+  ActiveDurationSeconds: 0.05
+  EffectDurationSeconds: 0
+  Range: 0
+  FrontSegmentCount: 0
+  BackSegmentCount: 0
+  FinalDamageMultiplier: 1
+  FinalAttackSpeedMultiplier: 1
+  IncomingDamageMultiplier: 1
+  ActiveVfxPrefab: {fileID: 0}
+  RangeVfxPrefab: {fileID: 0}
+  TargetBodyVfxPrefab: {fileID: 0}
+  EnemyDebuffVfxPrefab: {fileID: 0}
+  Memo: "\uD604\uC7AC \uAE30\uB2A5 \uC5C6\uC74C. \uCE74\uB4DC \uB9AC\uB864 +1 \uD6A8\uACFC
+    \uC5F0\uB3D9 \uC804 \uBAA8\uB378/\uCE74\uD0C8\uB85C\uADF8 \uB4F1\uB85D\uC6A9
+    \uC9C0\uC6D0\uD615 \uC138\uADF8\uBA3C\uD2B8."

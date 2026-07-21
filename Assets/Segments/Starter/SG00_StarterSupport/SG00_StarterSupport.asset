@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0869a2011a87a2b458bdf7e77b3c8a86, type: 3}
+  m_Name: SG00_StarterSupport
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentDefinition
+  SegmentId: SG00_StarterSupport
+  DisplayName: "\uC9C0\uC6D0\uD615 \uC2DC\uC791 \uD654\uC5FC\uAD6C"
+  Description: "\uC9C0\uC6D0\uD615 \uC9C0\uB801\uC774\uAC00 \uC2DC\uC791\uD560 \uB54C
+    \uC7A5\uCC29\uD558\uB294 \uD654\uC5FC\uAD6C\uD0C0\uC6CC \uC2A4\uD0C0\uD130 \uC138\uADF8\uBA3C\uD2B8\uC785\uB2C8\uB2E4."
+  StarterOnly: 1
+  SharedUpgradeSegmentId: SG21_FireballTower
+  UseLevels: 1
+  MaxLevel: 3
+  CanAddByLevelChoice: 0
+  CanUpgradeByLevelChoice: 0
+  Levels:
+  - Level: 1
+    SegmentPrefab: {fileID: 7347475770668756824, guid: 5b117d9bd79a4a7419038b8af34cefcd, type: 3}
+    BodyPrefab: {fileID: 6088409849997654673, guid: 1c628ecf335a4614aabfc2756fc34e12, type: 3}
+    HeadPrefab: {fileID: 497066794343819471, guid: 73cf682b141ad244d8a3c47be42b3c10, type: 3}
+    AttackProfile: {fileID: 11400000, guid: ec406ca2be85eaa48be2a109a354d541, type: 2}
+    Memo: SG21_FireballTower Lv1 starter full prefab
+  - Level: 2
+    SegmentPrefab: {fileID: 7151054695405506256, guid: ce31ec4560c04a54e9e91aa547f926fd, type: 3}
+    BodyPrefab: {fileID: 6088409849997654673, guid: 1c628ecf335a4614aabfc2756fc34e12, type: 3}
+    HeadPrefab: {fileID: 3304523149953731092, guid: e930e2c9d2303ed4ebc12c3a405aea40, type: 3}
+    AttackProfile: {fileID: 11400000, guid: b408b78f00c50ec4e95f4d7411c2f769, type: 2}
+    Memo: SG21_FireballTower Lv2 starter full prefab
+  - Level: 3
+    SegmentPrefab: {fileID: 6338907810046905295, guid: c6ad53a8d64d0a841a3e49a00b069ec1, type: 3}
+    BodyPrefab: {fileID: 6088409849997654673, guid: 1c628ecf335a4614aabfc2756fc34e12, type: 3}
+    HeadPrefab: {fileID: 1277541544916695758, guid: 77453310489b94342b2791bbf057517d, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 74b6d17abc58dcc42a07621873cadb55, type: 2}
+    Memo: SG21_FireballTower Lv3 starter full prefab
+  CardIconSpritesPerLevel: []
+  CardIconSizeOffset: 0

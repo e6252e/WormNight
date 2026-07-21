@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0869a2011a87a2b458bdf7e77b3c8a86, type: 3}
+  m_Name: SG20_LightningObelisk
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentDefinition
+  SegmentId: SG20_LightningObelisk
+  DisplayName: "\uC804\uAE30 \uC624\uBCA8\uB9AC\uC2A4\uD06C"
+  Description: "<color=#2F6BFF><b>[마법]</b></color> <color=#6B5B3A>[연쇄]</color> 번개를 발사하고 주변 적에게 연쇄 전격을 퍼뜨립니다."
+  StarterOnly: 0
+  SharedUpgradeSegmentId: 
+  UseLevels: 1
+  MaxLevel: 3
+  CanAddByLevelChoice: 1
+  CanUpgradeByLevelChoice: 1
+  Levels:
+  - Level: 1
+    SegmentPrefab: {fileID: 1034619849494090383, guid: 0905d2f40685ea842875e167db9d8717, type: 3}
+    BodyPrefab: {fileID: 2148103711033173953, guid: 860225745922ead43827e6d3ce0d4cc0, type: 3}
+    HeadPrefab: {fileID: 9096743896839812948, guid: dbbc8d5d40109774085d6cc3ef916eec, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 29c6d4b5c5861cb41a6c967648f7502b, type: 2}
+    Memo: "\uAE30\uBCF8 \uC804\uAE30 \uC624\uBCA8\uB9AC\uC2A4\uD06C"
+  - Level: 2
+    SegmentPrefab: {fileID: 1262843687508335268, guid: 985b13de1152ceb4aa6ab98e635110b4, type: 3}
+    BodyPrefab: {fileID: 2148103711033173953, guid: 860225745922ead43827e6d3ce0d4cc0, type: 3}
+    HeadPrefab: {fileID: 5781965588660484066, guid: 01af75c632bdb91469073be03ca2a790, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 3696379563a0bfc41a9b34e0c89a73bb, type: 2}
+    Memo: "Lv2 \uC784\uC2DC \uB3D9\uC77C \uD5E4\uB4DC"
+  - Level: 3
+    SegmentPrefab: {fileID: 2521543613292408538, guid: 7370f7ed534fc99458585b406ed71d19, type: 3}
+    BodyPrefab: {fileID: 3814735659483884719, guid: e2405f52b493b1e42946b9bb7e70aa1c, type: 3}
+    HeadPrefab: {fileID: 5644814152176499879, guid: 8479603edaa19a54f99b0e7e41798114, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 861dd6c169dc12e4180be0db03fba1d3, type: 2}
+    Memo: "Lv3 \uC784\uC2DC \uB3D9\uC77C \uD5E4\uB4DC"
+  CardIconSpritesPerLevel:
+  - {fileID: 21300000, guid: d042ba0525cb40b4fb502da64992f6e3, type: 3}
+  - {fileID: 21300000, guid: 04b5cef4770e72d428e8ff4fe8d956b1, type: 3}
+  - {fileID: 21300000, guid: ba25f595fdf01594cadc5f4d2082ed00, type: 3}
+  CardIconSizeOffset: 0

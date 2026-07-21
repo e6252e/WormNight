@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0869a2011a87a2b458bdf7e77b3c8a86, type: 3}
+  m_Name: SG52_FrostBell
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentDefinition
+  SegmentId: SG52_FrostBell
+  DisplayName: "\uC5BC\uC74C\uC885"
+  Description: "<color=#2E7D59><b>[\uC9C0\uC6D0]</b></color> <color=#6B5B3A>[\uB514\uBC84\uD504]</color>
+    \uC801 \uBC00\uC9D1 \uC9C0\uC5ED\uC5D0 \uC5BC\uC74C \uC7A5\uD310\uC744 \uC0DD\uC131\uD574
+    \uBC94\uC704 \uC801\uC744 \uB3D9\uACB0\uC2DC\uD0B5\uB2C8\uB2E4."
+  StarterOnly: 0
+  SharedUpgradeSegmentId: 
+  UseLevels: 1
+  MaxLevel: 1
+  CanAddByLevelChoice: 1
+  CanUpgradeByLevelChoice: 0
+  Levels:
+  - Level: 1
+    SegmentPrefab: {fileID: 646820949840857281, guid: 0f3157dc85ef1344ca2347b8f7464ba3, type: 3}
+    BodyPrefab: {fileID: 2894136110198890850, guid: 87dcfb70d87b2264d83db394c1d4c959, type: 3}
+    HeadPrefab: {fileID: 8053481153783883370, guid: a6c3d4bf1115b0847a923793658c7752, type: 3}
+    AttackProfile: {fileID: 0}
+    Memo: "SP_SG52_FrostBell_Lv1 \uD504\uB85C\uD544 \uC0AC\uC6A9. 10\uCD08\uB9C8\uB2E4
+      \uC0AC\uAC70\uB9AC 12 \uC548\uC758 \uC801 \uBC00\uC9D1 \uC9C0\uC810\uC5D0 \uBC18\uACBD
+      4.5 \uC6D0\uD615 \uC7A5\uD310\uC744 \uC0DD\uC131\uD558\uACE0, \uBC94\uC704
+      \uC801\uC5D0\uAC8C 5\uCD08 \uB3D9\uACB0\uC744 1\uD68C \uC801\uC6A9\uD568."
+  CardIconSpritesPerLevel:
+  - {fileID: 21300000, guid: 599b7d9bcf7513d4a9b91ca2657e1cb0, type: 3}
+  CardIconSizeOffset: 0

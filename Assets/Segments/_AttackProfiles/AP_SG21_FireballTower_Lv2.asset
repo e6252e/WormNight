@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b5019bdfdcf0884995dbf6aa7aadd17, type: 3}
+  m_Name: AP_SG21_FireballTower_Lv2
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentAttackProfile
+  DisplayName: SG21 Fireball Tower Lv2
+  Description: Draft magic tower that fires straight fireball projectiles with explosion
+    area damage.
+  MoveType: 0
+  ImpactType: 2
+  SearchRange: 21
+  TargetPriorityMode: 0
+  AttackAreaMode: 1
+  SideConeAngle: 110
+  ClusterProbeRadius: 0.5
+  ClusterMinEnemyCount: 5
+  TargetAimHeight: 0.45
+  AttackSpawnHeight: 0.75
+  BaseDamage: 32
+  Cooldown: 3.65
+  UseDamageTypeOverride: 0
+  DamageTypeOverride: 1
+  ApplyMonsterFeedback: 1
+  MonsterKnockbackDistance: 0.25
+  MonsterKnockbackDuration: 0.08
+  MonsterStaggerDuration: 0.06
+  MonsterExplosionFeedbackMultiplier: 2
+  MonsterPierceFeedbackMultiplier: 0.35
+  MonsterContinuousFeedbackMultiplier: 0
+  ProjectilePrefab: {fileID: 8191114568147926729, guid: f3029541b328ca9449500b11d2902515, type: 3}
+  ProjectileCount: 1
+  SpreadAngle: 0
+  FireProjectilesSequentially: 0
+  ProjectileVolleySize: 1
+  ProjectileFireDelay: 0.18
+  UseLoadedProjectileVisuals: 1
+  LoadedProjectileReloadRatio: 0
+  ProjectileScale: {x: 1.2, y: 1.2, z: 1.2}
+  ProjectileVfxScale: {x: 0.4, y: 0.4, z: 0.4}
+  ProjectileSpeed: 19.5
+  ProjectileHitRadius: 0.66
+  ProjectileLifetime: 5.5
+  PierceCount: 1
+  PiercingProjectileDamageRatio: 1
+  ArcHeight: 0
+  UseVerticalImpactDrop: 0
+  VerticalImpactDropHeight: 10
+  UseFlameMuzzleInfluence: 0
+  FlameMuzzleInfluenceStrength: 0.3
+  FlameMuzzleInfluenceRange: 0
+  RollAfterArcLanding: 0
+  LandingImpactRadius: 1.1
+  LandingRollDamageRadius: 0.75
+  LandingRollDamageRatio: 1
+  LandingRollDistance: 0
+  LandingRollDuration: 0.35
+  LandingRollSpinSpeed: 720
+  ExplosionRadius: 3.6
+  ExplosionLifetime: 0.45
+  AreaTelegraphPrefab: {fileID: 0}
+  AreaTelegraphGroundOffset: 0.025
+  AreaTelegraphAlpha: 0.35
+  SlowMoveSpeedMultiplier: 1
+  SlowDuration: 0
+  StatusEffectOnHit: 1
+  StatusEffectVfxPrefab: {fileID: 1682007460361429981, guid: af6733430f704654a9b25e8ed8358749, type: 3}
+  LaserDuration: 0.5
+  LaserTickInterval: 0.15
+  ChainRange: 4
+  MaxChainDepth: 0
+  ChainBranchCount: 1
+  ChainDelay: 0.06
+  ChainLineVfxLifetime: 0.4
+  ChainDamageFalloff: 0.5
+  SawPierceDamageRatio: 0.5
+  SawTargetMinDistanceRatio: 0.5
+  SawSpinSpeed: 1440
+  RequireAimBeforeFire: 1
+  HeadTurnSpeed: 360
+  FireAngleTolerance: 12
+  ContinueAimingDuringProjectileSequence: 0
+  FiringHeadTurnSpeedMultiplier: 1
+  UseMuzzleDirectionDuringProjectileSequence: 0
+  MuzzleVfxPrefab: {fileID: 7076456442862268823, guid: bed5cfcb30b215144b35cfa40f416896, type: 3}
+  MuzzleVfxLifetime: 1.5
+  MuzzleVfxScale: {x: 1, y: 1, z: 1}
+  HitVfxPrefab: {fileID: 0}
+  HitVfxLifetime: 2
+  ExplosionVfxPrefab: {fileID: 3549793700234520448, guid: 95ebfd51f55e3904f92225949a0b9e27, type: 3}
+  ExplosionVfxLifetime: 1.5
+  ExplosionVfxAlpha: 1
+  RecoilDistance: 0.025
+  RecoilTiltAngle: 0.7
+  RecoilKickDuration: 0.05
+  RecoilReturnDuration: 0.14
+  RecoilSettleDistanceRatio: 0.22
+  RecoilSettleTiltRatio: 0.35
+  RecoilSettleDuration: 0.12

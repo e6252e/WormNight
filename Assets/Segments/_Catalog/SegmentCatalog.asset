@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbb6300c20ecd1d41bca8461b5e42865, type: 3}
+  m_Name: SegmentCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentCatalogAsset
+  Segments:
+  - {fileID: 11400000, guid: 67867b31e58f13e45bac2578caf9032d, type: 2}
+  - {fileID: 11400000, guid: da936b363b9e52e4f9845ad4f92ebd0d, type: 2}
+  - {fileID: 11400000, guid: d61559f37eceb154984eb0c542c65e53, type: 2}
+  - {fileID: 11400000, guid: 9a229a8c01d04044abcae7ae30b6e481, type: 2}
+  - {fileID: 11400000, guid: dd59e826c0950a34fadd94d485ed1e69, type: 2}
+  - {fileID: 11400000, guid: 4404f75696cfdfd4fabdb43621e14576, type: 2}
+  - {fileID: 11400000, guid: 2a681889f2f1b9a49843da243fe43331, type: 2}
+  - {fileID: 11400000, guid: d6a7f644cb1bc5043b907b6ea4e2a621, type: 2}
+  - {fileID: 11400000, guid: 896c875faea3b7b4cbaf22c22a581a07, type: 2}
+  - {fileID: 11400000, guid: 8eeb370a043c43542abb5f9cb047ddcc, type: 2}
+  - {fileID: 11400000, guid: 6a5e54697fe69264cb789fae795a67cc, type: 2}
+  - {fileID: 11400000, guid: 41724028ab41add4485634922e53d4c9, type: 2}
+  - {fileID: 11400000, guid: 205ac16bb17e9c949b348031280b0b86, type: 2}
+  - {fileID: 11400000, guid: fcd022841762e6b49bb0a7e26780a06e, type: 2}
+  - {fileID: 11400000, guid: 6b1040daaed4bfc48bc877fc9db3b4f6, type: 2}

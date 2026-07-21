@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0869a2011a87a2b458bdf7e77b3c8a86, type: 3}
+  m_Name: SG02_Missile
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.SegmentDefinition
+  SegmentId: SG02_Missile
+  DisplayName: "\uBBF8\uC0AC\uC77C"
+  Description: "<color=#9B3A2F><b>[밀리]</b></color> <color=#6B5B3A>[폭발]</color> 곡사 로켓을 발사해 착탄 지점 주변 적에게 폭발 피해를 줍니다."
+  StarterOnly: 0
+  SharedUpgradeSegmentId: 
+  UseLevels: 1
+  MaxLevel: 3
+  CanAddByLevelChoice: 1
+  CanUpgradeByLevelChoice: 1
+  Levels:
+  - Level: 1
+    SegmentPrefab: {fileID: 3483261233097193972, guid: db2165d1d6f5cc142a569bffe1cb4434, type: 3}
+    BodyPrefab: {fileID: 1143166947767441740, guid: 269605ebc0ea7144c9baf3262b2010d3, type: 3}
+    HeadPrefab: {fileID: 8506179201687367566, guid: 551f28be486c9924cbee06ba843bf739, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 823accc85c304d94a989c4bfbd13da97, type: 2}
+    Memo: "\uACE1\uC0AC \uD3ED\uBC1C \uB85C\uCF13 1\uBC1C"
+  - Level: 2
+    SegmentPrefab: {fileID: 5682236750831676408, guid: 91a13b753eb5e754db119235f776dd06, type: 3}
+    BodyPrefab: {fileID: 1143166947767441740, guid: 269605ebc0ea7144c9baf3262b2010d3, type: 3}
+    HeadPrefab: {fileID: 8506179201687367566, guid: 12fe9d4571d02014bac47ed692c77823, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 02bfdf5d02ca4dd418567a6be769f10c, type: 2}
+    Memo: "\uACE1\uC0AC \uD3ED\uBC1C \uB85C\uCF13 2\uBC1C"
+  - Level: 3
+    SegmentPrefab: {fileID: 5232921295675559186, guid: 2723aadc9fab8c24fbe79801646a7d67, type: 3}
+    BodyPrefab: {fileID: 2415375611796336525, guid: 90103bf23122df44d88a6f72393082fc, type: 3}
+    HeadPrefab: {fileID: 8506179201687367566, guid: fef5f335c90925145a9ae2052bd16c01, type: 3}
+    AttackProfile: {fileID: 11400000, guid: 0cec92cd306748b43a3d595dc8ed900a, type: 2}
+    Memo: "\uB9CC\uB819 \uBAB8\uD1B5 + \uACE1\uC0AC \uD3ED\uBC1C \uB85C\uCF13 3\uBC1C"
+  CardIconSpritesPerLevel:
+  - {fileID: 21300000, guid: 3578b26932a7130409582c40ef744576, type: 3}
+  - {fileID: 21300000, guid: c57c288a5fe5a924b9beeaadfb966d04, type: 3}
+  - {fileID: 21300000, guid: 4767839cd9c41024b947a9b4d7a5f05e, type: 3}
+  CardIconSizeOffset: 0
