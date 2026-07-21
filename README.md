@@ -38,19 +38,6 @@
 플레이가 종료된 뒤에도 획득한 재화와 성장 정보는 유지됩니다.  
 캐릭터를 영구 강화하고 새로운 캐릭터를 해금하며 더 높은 웨이브에 반복 도전할 수 있습니다.
 
-### 📥 프로젝트 자료
-
-| 자료 | 설명 | 바로가기 |
-|---|---|---|
-| **게임 플레이 영상** | 전체 플레이 흐름과 주요 기능 시연 | [▶ YouTube에서 보기](https://youtu.be/bW2AYoj8EMo?si=U5g3V52vqesjE9vx) |
-| **게임 빌드** | Windows PC 실행 파일 다운로드 | [⬇ Google Drive에서 다운로드](https://drive.google.com/file/d/1VkQZIn8_dw6294x1DyaUQprYBBwBn_6I/view?usp=sharing) |
-| **기술 포트폴리오** | 담당 기능의 설계와 구현 과정 | [📄 PPT 문서 열기](docs/WormNight_Technical_Portfolio.pptx) |
-
-> GitHub에서는 영상을 직접 재생할 수 없기 때문에 아래 썸네일을 누르면 YouTube 영상으로 이동합니다.
-
-[![게임 플레이 영상](https://img.youtube.com/vi/bW2AYoj8EMo/maxresdefault.jpg)](https://youtu.be/bW2AYoj8EMo?si=U5g3V52vqesjE9vx)
-
----
 
 ## ✨ 핵심 플레이
 
