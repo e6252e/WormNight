@@ -1,6 +1,7 @@
 게임 : 웜나이트
 
 ## 🎥 게임 플레이 영상
+▶ [유튜브에서 게임 플레이 영상 보기](https://youtu.be/bW2AYoj8EMo?si=U5g3V52vqesjE9vx)
 
 [![게임 플레이 영상](https://img.youtube.com/vi/bW2AYoj8EMo/maxresdefault.jpg)](https://youtu.be/bW2AYoj8EMo?si=U5g3V52vqesjE9vx)
 
