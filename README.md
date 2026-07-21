@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 <div align="center">
 
 <img src="docs/hero_banner.jpg" alt="WormNight 대표 이미지" width="100%">
@@ -55,6 +59,7 @@
 
 https://github.com/user-attachments/assets/ad5dd931-9e7b-4c0c-b038-022dc6cbb2e1
 
+---
 
 ### 🃏 2. 카드 선택 성장
 
@@ -63,14 +68,16 @@ https://github.com/user-attachments/assets/ad5dd931-9e7b-4c0c-b038-022dc6cbb2e1
 
 https://github.com/user-attachments/assets/c543d560-ab18-4413-8eb6-7b6358fdeae8
 
+---
+
 ### ✨ 3. 스킬 SFX · VFX
 
 스킬 사용 가능 여부와 강화 결과를 효과음과 시각 효과로 전달합니다.  
 전투 중에도 스킬의 활성 상태와 강화 결과를 빠르게 파악할 수 있도록 구성했습니다.
 
-<div align="center">
-<img src="docs/gifs/skill.gif" alt="스킬 사용 GIF" width="90%">
-</div>
+https://github.com/user-attachments/assets/d12ad28c-af2f-419d-8daf-9f6371174fdc
+
+---
 
 ### 🤖 4. 자동 플레이 · 2배속
 
