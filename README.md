@@ -59,7 +59,7 @@
 반복 플레이를 통해 캐릭터를 영구 강화하고 새로운 캐릭터를 해금하며 더 높은 웨이브에 도전합니다.
 
   
-
+[![게임 플레이 영상](https://img.youtube.com/vi/bW2AYoj8EMo/maxresdefault.jpg)](https://youtu.be/bW2AYoj8EMo?si=U5g3V52vqesjE9vx)
 
   
 **▲ 이미지를 클릭하면 전체 게임 플레이 영상으로 이동합니다.**
