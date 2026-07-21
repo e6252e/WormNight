@@ -216,7 +216,3 @@ flowchart LR
   
 
 
-**플레이 영상과 자세한 구현 과정은 아래 자료에서 확인할 수 있습니다.**
-
-[게임 플레이 영상](https://youtu.be/bW2AYoj8EMo) · [게임 빌드](https://drive.google.com/file/d/1VkQZIn8_dw6294x1DyaUQprYBBwBn_6I/view?usp=sharing) · [기술 포트폴리오](docs/WormNight_Technical_Portfolio.pptx)
-
