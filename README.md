@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/ad5dd931-9e7b-4c0c-b038-022dc6cbb2e1
-
 <div align="center">
 
 <img src="docs/hero_banner.jpg" alt="WormNight 대표 이미지" width="100%">
