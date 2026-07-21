@@ -50,7 +50,9 @@ https://github.com/user-attachments/assets/ad5dd931-9e7b-4c0c-b038-022dc6cbb2e1
 
 시간이 지날수록 강해지는 몬스터 웨이브를 상대하며 중앙 넥서스를 보호합니다.  
 몸에 장착된 여러 무기가 동시에 공격하며, 선택한 카드 조합에 따라 전투 방식이 달라집니다.
-[![WormNight Gameplay](https://img.youtube.com/vi/FcbrSU16aFo/maxresdefault.jpg)](https://youtu.be/FcbrSU16aFo)
+
+https://github.com/user-attachments/assets/ad5dd931-9e7b-4c0c-b038-022dc6cbb2e1
+
 <div align="center">
 <img src="docs/gifs/combat.gif" alt="웨이브 전투 GIF" width="90%">
 </div>
