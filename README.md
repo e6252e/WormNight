@@ -10,9 +10,7 @@
 
 
 
-Platform
-Genre
-Project
+
 
   
 
