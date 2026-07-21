@@ -21,7 +21,7 @@
   
 
 
-[게임 플레이 영상](https://youtu.be/bW2AYoj8EMo)
+
 [게임 빌드 다운로드](https://drive.google.com/file/d/1VkQZIn8_dw6294x1DyaUQprYBBwBn_6I/view?usp=sharing)
 [기술 포트폴리오](docs/WormNight_Technical_Portfolio.pptx)
 
