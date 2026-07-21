@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e296c1c1f75de741bfc3d9ad9ab0c86, type: 3}
+  m_Name: MeadowTerrainSurfaceProfile
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.MeadowTerrainSurfaceProfile
+  TerrainTemplate: {fileID: 15600000, guid: 6000f4686c9d0524fade434bf6f9a09d, type: 2}
+  TerrainLayers:
+  - {fileID: 8574412962073106934, guid: eedfa14ddb862d14cae660ec6a608cb3, type: 2}
+  - {fileID: 8574412962073106934, guid: 60af209c86488ab4aa182ec43fe7bcec, type: 2}
+  - {fileID: 8574412962073106934, guid: a8a39ced3c13eab4487597cca1b94dbf, type: 2}
+  - {fileID: 8574412962073106934, guid: 36db9ec1cfbcb60409533fd945179d2e, type: 2}
+  TerrainMaterial: {fileID: 2100000, guid: 325756e1ccab11a4da38e21640bfb495, type: 2}
+  ApplyTerrainLayers: 1
+  ApplyTerrainMaterial: 1
+  LogSurfaceSummary: 1

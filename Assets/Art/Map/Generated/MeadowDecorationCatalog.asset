@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 009db1fe7915d51408d7591f4550fc0d, type: 3}
+  m_Name: MeadowDecorationCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.MeadowDecorationCatalogAsset
+  TreePrefabs:
+  - {fileID: 7734711675177614231, guid: 27fd449a5e9cfbe4ba5fada5acf8bdff, type: 3}
+  - {fileID: 7613569157733645775, guid: 736b0c0f991c81d4fb83b87e30192270, type: 3}
+  - {fileID: 7952020868988110713, guid: b19a283a79982624f8b175c07124bde8, type: 3}
+  - {fileID: 5883319143142268190, guid: d23d0bde965cf37499e17485286df631, type: 3}
+  - {fileID: 6575771556790259002, guid: b7190fa33d2fff24199d28463da0e469, type: 3}
+  - {fileID: 5232276069042357067, guid: 1395d4b9e2909ec47acb2ff1df59ed5e, type: 3}
+  - {fileID: 4095443103680979389, guid: 414e2d959452d3f458b1b0e70e8da9cd, type: 3}
+  - {fileID: 8087302059370189801, guid: 281b7f9bf7db41c4995989bf6e7674d2, type: 3}
+  - {fileID: 623014761882696207, guid: d6047735bad7d3f429e94cb64c1c99fa, type: 3}
+  - {fileID: 8777799464399053748, guid: 1b3c91cf4d0e4da43908ade44738b3a9, type: 3}
+  LightTreePrefabs:
+  - {fileID: 1752398201994031009, guid: 888280f9ca9fe8742a7ae3689c818151, type: 3}
+  - {fileID: 8434403016258331238, guid: a2dd73f4a3b490345bd1dcfe3cd5df73, type: 3}
+  - {fileID: 4919715353128971909, guid: fd1d4d60645514641bea47de68691877, type: 3}
+  - {fileID: 5703129993411035937, guid: 1ca1f3caf861bfe42ba85688fd187d6f, type: 3}
+  BushPrefabs:
+  - {fileID: 7036008013568330731, guid: ec6a25321e24417449711363d1dc2909, type: 3}
+  - {fileID: 66026168685254648, guid: d623648356c6a6644b16c60cc0d3b28e, type: 3}
+  - {fileID: 9033824403265272691, guid: 4ac516a5034ef6445a3a8399ce45b69f, type: 3}
+  - {fileID: 5096545350700561909, guid: 1a0def7de7c81cc4c9e71b522955591d, type: 3}
+  - {fileID: 6107579948657647437, guid: d29e3562c4986fd40ba23a3ae32e2453, type: 3}
+  - {fileID: 625288069756936889, guid: 081f6bf04cf9ddd42b578292e40e2909, type: 3}
+  - {fileID: 306870687159399321, guid: 6ce336f5f97635242b98cdbc59c11be8, type: 3}
+  - {fileID: 3880714691921098684, guid: 607019b2e00b76446aaaa64f01842f4b, type: 3}
+  GrassPrefabs:
+  - {fileID: 3362996709279281652, guid: 7d8f71edd2d4f914098b39701c81ad75, type: 3}
+  - {fileID: 6181781050599152949, guid: e1e3fc6430803b6408fdbed94b74def5, type: 3}
+  - {fileID: 7576932170381100629, guid: f9f567e151c012c4291df8a616767c47, type: 3}
+  - {fileID: 4584649847445589623, guid: ab38ea4cb9336384198603d8305aa6ae, type: 3}
+  - {fileID: 1931770246627617997, guid: f57609ae019c14049ba6b47677884413, type: 3}
+  - {fileID: 4321978322423640800, guid: 6c6ed59e4c670394ba0e19581707a0d0, type: 3}
+  - {fileID: 4652312263918134434, guid: 937e83a7deec7b44189ea214d39d7d99, type: 3}
+  - {fileID: 3420246619592942295, guid: a3e8ed3b37d32074caab21cffcc15d5f, type: 3}
+  - {fileID: 3436109930010205225, guid: c6f22794defaca246bf3e13c978ae7e9, type: 3}
+  - {fileID: 3798444927859640519, guid: 93cd27fa192a8574f9f0bed1fa473930, type: 3}
+  - {fileID: 2460703025103956467, guid: 680c387a48b103c4c8a7b2193a6d4f43, type: 3}
+  FlowerGroupPrefabs:
+  - {fileID: 2825749958711284667, guid: 03b4819e0bf7a5741ab511ecd8030a3f, type: 3}
+  - {fileID: 8818337154967118072, guid: 9dae7497fe21fdc45ad38170350f4e9c, type: 3}
+  - {fileID: 5671540736498661453, guid: e21da063c1b603446aa3ed1166245fbc, type: 3}
+  - {fileID: 1572816401961957766, guid: 859e30ba41c00574d895f5158bbeb390, type: 3}
+  - {fileID: 6600072852898450254, guid: c1d4cc33d037b724fb254e9a78836bcc, type: 3}
+  - {fileID: 3640604011847532824, guid: d690f421807738a4f9f1583724b5643b, type: 3}
+  - {fileID: 8408207639359493171, guid: e4de4e1d979eb1045a36afcfc9711c7e, type: 3}
+  - {fileID: 4773127312517998064, guid: c2c36c0be38f52d4a8ba99af22de9189, type: 3}
+  FlowerAccentPrefabs:
+  - {fileID: 1231381802413869127, guid: f75490de2bd0c2649bf9acf17dba94d4, type: 3}
+  - {fileID: 1780371885413382510, guid: ce1799a8b909a5c48865b2044041ca8b, type: 3}
+  - {fileID: 7633712587142381110, guid: 015814757e2c6a44cb4d920055e71ccb, type: 3}
+  - {fileID: 5747028048917190333, guid: 8b29fef0349e65946988aa1f8d4ea7a1, type: 3}
+  - {fileID: 1254660554586596776, guid: ea8e1e7469963e542ae38e51d5b4cf76, type: 3}
+  - {fileID: 1256385767275238852, guid: fd58d0b8041e76245b177c601b1bbafe, type: 3}
+  - {fileID: 5260690385275144988, guid: 83a4178bc957fa04eb837f3610e7f353, type: 3}
+  - {fileID: 8401964956842126086, guid: a84507e2d446f3f4eac400474dd8a6d6, type: 3}
+  - {fileID: 4015905056273792556, guid: 81d8252901e1bc341a562df8863f115a, type: 3}
+  - {fileID: 3653984344608457944, guid: ebf4a8d9b5491924b8d9c02445f9ffb2, type: 3}
+  - {fileID: 3214454308593244893, guid: 22b337c235dc7d248882f52b9a3c5c29, type: 3}
+  - {fileID: 4633350967713889058, guid: ec45cf5fca012bf40b25cdf284b3f00c, type: 3}
+  - {fileID: 9201265622896862403, guid: 14aed8c2186976a45803a5046366509f, type: 3}
+  MushroomPrefabs:
+  - {fileID: 7834973267874489703, guid: 181a24ecd9c65e243963ae1d7bccab7e, type: 3}
+  - {fileID: 5146939005331188968, guid: 30707976c6e03e4488d29ecf7e881e35, type: 3}
+  RockGroupPrefabs:
+  - {fileID: 4198790251738988539, guid: 72fa0ae456092d94d9eedaf50dd09e10, type: 3}
+  - {fileID: 4860089337182994368, guid: 3ad0ee0171dbc92448d742e7e6109fa6, type: 3}
+  - {fileID: 976383909341558864, guid: c3f81a0815f1c7f4aa9983919ab0270b, type: 3}
+  - {fileID: 612688517068408393, guid: 0a01b2454ab879443a68ca9c88eb6509, type: 3}
+  - {fileID: 7035085724738163694, guid: 7f47c2b5e65b1d246914b4dbf1ff65c1, type: 3}
+  - {fileID: 7529767438074568113, guid: 2db5cbae1bb008e4685720cd25ed8262, type: 3}
+  PandazoleFlowerPrefabs:
+  - {fileID: 4109005837308819666, guid: cd2a6c4d56cfe394ab9f97008ef13651, type: 3}
+  - {fileID: 7637223341267945709, guid: 829fc177372bb61408f23101c7cd3261, type: 3}
+  - {fileID: 8337235457001494258, guid: 062dcd8d60d76ad49bd1462289584e2f, type: 3}
+  - {fileID: 6693726753418361654, guid: bfde5c3818b759b43951b1965a572ab4, type: 3}
+  - {fileID: 5082872817616728258, guid: 978e893d80abff24883c394c4554bdd6, type: 3}
+  - {fileID: 6328733738447909016, guid: f541db3448eff864c9be98349a7f39c0, type: 3}
+  - {fileID: 9019963989534805346, guid: ade4c0f6a4cac3744baff009e100a3a4, type: 3}
+  - {fileID: 6815382234217383322, guid: 80226811445119940b93772ea46ea51d, type: 3}
+  - {fileID: 2147049705804973365, guid: 1cdba09248def9f4693acd6d048cbef1, type: 3}
+  - {fileID: 6425490034235877137, guid: 62746b6c21087524395c845c4c37b4da, type: 3}
+  - {fileID: 1935777103797408925, guid: bf2ec6ad525183f42ae47c7acbb3707a, type: 3}
+  - {fileID: 2234343862155268054, guid: bcacdef6f5555124391e8c93f6fbcb2a, type: 3}
+  - {fileID: 2234795810523074776, guid: fd6ce06f9216fe54484c5e99615d9a3d, type: 3}
+  - {fileID: 6023715776590604057, guid: 142a9b5c922852e45977cb82752cd8cb, type: 3}
+  - {fileID: 3211005152683201310, guid: a480982a6015acf429d9add6f2140ee3, type: 3}
+  - {fileID: 4328495683320217586, guid: 1e3f7ef6a56a127458ed479dea5b2fa1, type: 3}
+  - {fileID: 4848701703992824418, guid: 4f0ee6c48a2e25c47ac86f543cd85647, type: 3}
+  - {fileID: 330790258491713308, guid: 3b22c1a1234fa0c479f2565e08b8d541, type: 3}
+  PandazoleGrassPrefabs:
+  - {fileID: 6530447871360298800, guid: 2efc5a27e0acba0488836f7b60c79069, type: 3}
+  - {fileID: 5273975405118863034, guid: d4452ce734dc10b41a610e1707883fa1, type: 3}
+  - {fileID: 8328427097029787696, guid: 75a05ef7a9bc2bc499e0e476b93bc6c2, type: 3}
+  - {fileID: 8803108294460354070, guid: 5d5de5e939962d549ab4ea64d2a1e7e3, type: 3}
+  - {fileID: 5981411198264996371, guid: a2fa021fdbcbd9444892a84b4267b257, type: 3}
+  - {fileID: 1248584196116787237, guid: c7621c05ce50cc44884596dddfae912b, type: 3}
+  - {fileID: 7386249408408444929, guid: 52fe719de8506fa4c9cf35ca54e81f75, type: 3}
+  - {fileID: 6774245218167996842, guid: 12b4cf93a448d954ebd34340448ca2a8, type: 3}
+  - {fileID: 2505980637671435248, guid: d610987621ae2f34bb4c83367605937c, type: 3}
+  - {fileID: 3708652287404959598, guid: 34666990a7216fd49902debe7e9ad0f7, type: 3}
+  PandazoleFoliagePrefabs:
+  - {fileID: 5709098141919558499, guid: 23ba754f5a5ecb14a887b196bc89d236, type: 3}
+  - {fileID: 5408013003784124514, guid: c7ca0203ef65e734490d8b277e8074a1, type: 3}
+  - {fileID: 2417343842655254986, guid: a86b90e42f4ca7341a8518eb355fb075, type: 3}
+  PandazoleMushroomPrefabs:
+  - {fileID: 5430213869122140374, guid: 712d2f95c99d0174ba8f12b1e60c6689, type: 3}
+  - {fileID: 400831721113087497, guid: f83ed378d7ce84b4a9f17b04bdb79c78, type: 3}
+  - {fileID: 2750792171378555062, guid: 4774d978a4455a04aac13c6c87260acc, type: 3}
+  - {fileID: 8030522142226232468, guid: 9568219ae2c91854ab14e84aed9496c7, type: 3}
+  - {fileID: 8504758219789906526, guid: 56673ef45d48925478eba3aab4ecfccb, type: 3}
+  - {fileID: 808434983981790816, guid: e2d7ea7422987f14197d8befa41911ab, type: 3}
+  - {fileID: 1159182460359300126, guid: 0a62c256086fbc4499025d762f591204, type: 3}
+  - {fileID: 9154473703431767905, guid: 22cb8db82331877449a369c771d4ab9d, type: 3}
+  - {fileID: 4193181696207492045, guid: 15224fa48d4a7374eb34f8e81a030de2, type: 3}
+  - {fileID: 5023850687641262083, guid: 62a4402ffbba3fd4a9c9cb5e27b2497e, type: 3}
+  - {fileID: 8569581917442387223, guid: fd687a91c1157054783d49ac1a9393ff, type: 3}
+  - {fileID: 5152829988183512797, guid: 97da00da5e10d9046b12cf0bae284387, type: 3}
+  - {fileID: 55826992181890539, guid: 1df1d929b6e38904ea576c06799f6c5f, type: 3}
+  - {fileID: 5482788730570096671, guid: 87edec9c022084640b9dd4e82b884c9e, type: 3}
+  - {fileID: 5052562026221650425, guid: e45910011666f4c46ba763119b74c1a1, type: 3}
+  PandazoleLogPrefabs:
+  - {fileID: 1447987709244396459, guid: 64aaa8c698778aa4798fa25e58dd80d1, type: 3}
+  - {fileID: 8140620975964691567, guid: 66d759fbcd8eae14dad067e1cdcf382b, type: 3}
+  - {fileID: 8411952824353029793, guid: d47b703f8d498d9498921b1933c19ce0, type: 3}
+  - {fileID: 7525229300158187260, guid: 5778615d7db0bfa46bf5662edb95106c, type: 3}
+  - {fileID: 6604588093428496125, guid: 6f0d11a100e50c447ab156b94d295c48, type: 3}
+  PandazoleBonePrefabs:
+  - {fileID: 2094864038213025259, guid: ae1110b538793fe40ab50957f1143dd4, type: 3}
+  - {fileID: 6547896281744465490, guid: 8d7853af1b66f0e4493c6429fee91a70, type: 3}
+  - {fileID: 8199090940646691298, guid: ef6c0c771921cd345afb4758d60892ea, type: 3}
+  - {fileID: 2608264754131744774, guid: aff90eaf0345850458249b445a32b1d5, type: 3}
+  - {fileID: 7305228319952173253, guid: 7b3fadac312db27458762553d15b180b, type: 3}
+  - {fileID: 6871957704018570235, guid: 3f6fde56de2e39c4fb79b5b04a04c3e0, type: 3}
+  PandazoleSkullPrefabs:
+  - {fileID: 5501612424337367392, guid: 7aa83d470d6b1a64fbea8af0e86bb28d, type: 3}
+  - {fileID: 1481601087140192404, guid: d5859bbd8c5ba724f9e1b89e4dc80236, type: 3}
+  - {fileID: 353660135426365403, guid: 68d38806b9eb7374fb04b9da14318d7a, type: 3}
+  - {fileID: 2803736223273102538, guid: 4f52f8c3927ff7d4b81b5a9b10fc27bf, type: 3}
+  - {fileID: 2694160152329504478, guid: 455595561c172334ea34e56e0eacde51, type: 3}
