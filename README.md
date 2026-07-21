@@ -9,8 +9,7 @@
 
 
 
-[Unity](https://unity.com/)
-[C Sharp](https://learn.microsoft.com/dotnet/csharp/)
+
 Platform
 Genre
 Project
