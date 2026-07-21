@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 208ab95dccfaa9245adfd289527202be, type: 3}
+  m_Name: SU_AttackSpeedCard
+  m_EditorClassIdentifier: Assembly-CSharp::StatUpgradeDefinition
+  CardId: AttackSpeedCard
+  CardState: "\uAE30\uC874"
+  DisplayName: "\uCFE8\uD0C0\uC784 \uAC10\uC18C"
+  Description: "\uBAA8\uB4E0 \uC138\uADF8\uBA3C\uD2B8 \uCFE8\uD0C0\uC784 (N) \uAC10\uC18C"
+  CardPrefabOverride: {fileID: 0}
+  CardIconSprite: {fileID: 21300000, guid: 46199446765975948b5724cdd887e490, type: 3}
+  CardIconSizeOffset: 0
+  LevelDelta: 1
+  DamageMultiplierBonus: 0
+  MeleeDamageMultiplierBonus: 0
+  MagicDamageMultiplierBonus: 0
+  AttackSpeedMultiplierBonus: 0.06
+  TurnSpeedBonus: 0
+  CollisionForceBonus: 0
+  RejoinRangeBonus: 0
+  NexusHealthBonus: 0

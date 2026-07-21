@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2711f954d3728b46824d615d546e666, type: 3}
+  m_Name: GameplaySfxCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::TeamProject01.Gameplay.GameplaySfxCatalog
+  entries:
+  - Cue: 7
+    Clips:
+    - {fileID: 8300000, guid: 81155ce4869700e438854ce34a9ebbcc, type: 3}
+    - {fileID: 8300000, guid: 1104c3a18110ca34a8d88f9d7d86b8ff, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0.03
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55
+  - Cue: 8
+    Clips:
+    - {fileID: 8300000, guid: 72f379c37ce99c94b88f7ec81cf63a1c, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0.03
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55
+  - Cue: 9
+    Clips:
+    - {fileID: 8300000, guid: abab4ce02d789824b9ddff4c9f895851, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0.08
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55
+  - Cue: 10
+    Clips:
+    - {fileID: 8300000, guid: c8c00e70964c0244d904ee43ab7be79d, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0.1
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55
+  - Cue: 11
+    Clips:
+    - {fileID: 8300000, guid: c94b43a34cc8aaf40a51e7c1807edaf4, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0
+    Spatial: 0
+    MinDistance: 1
+    MaxDistance: 1
+  - Cue: 12
+    Clips:
+    - {fileID: 8300000, guid: 72cd7a102e5482a4998490b49a2bfe09, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0
+    Spatial: 0
+    MinDistance: 1
+    MaxDistance: 1
+  - Cue: 13
+    Clips:
+    - {fileID: 8300000, guid: 3fb291ae42acbc14890d2606cac9aae9, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0.5
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55
+  - Cue: 14
+    Clips:
+    - {fileID: 8300000, guid: a3cf2bdf68bfd464ca7446add034e0b4, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0.2
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55
+  - Cue: 16
+    Clips:
+    - {fileID: 8300000, guid: 31aeeb90bed81d140866f8674081cb27, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0.03
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55
+  - Cue: 19
+    Clips:
+    - {fileID: 8300000, guid: e1b0f766673745f40810657537204c3f, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0.1
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55
+  - Cue: 18
+    Clips:
+    - {fileID: 8300000, guid: 283592d4afe0b954dafe96d95d45b7b0, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0.2
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55
+  - Cue: 17
+    Clips:
+    - {fileID: 8300000, guid: 0a208d459a7f15e40a02a49f29339032, type: 3}
+    Volume: 1
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0.08
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55
+  - Cue: 20
+    Clips:
+    - {fileID: 8300000, guid: b7dc4c581a77ac3498038f6129ec0f93, type: 3}
+    Volume: 0.9
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55
+  - Cue: 21
+    Clips:
+    - {fileID: 8300000, guid: bfddd048c8d879b4ca51e5d2cc1a2881, type: 3}
+    Volume: 0.8
+    MinPitch: 1
+    MaxPitch: 1
+    Cooldown: 0
+    Spatial: 1
+    MinDistance: 2
+    MaxDistance: 55

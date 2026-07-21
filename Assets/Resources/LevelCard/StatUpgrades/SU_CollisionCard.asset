@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 208ab95dccfaa9245adfd289527202be, type: 3}
+  m_Name: SU_CollisionCard
+  m_EditorClassIdentifier: Assembly-CSharp::StatUpgradeDefinition
+  CardId: CollisionCard
+  CardState: "\uAE30\uC874"
+  DisplayName: "\uCDA9\uB3CC\uD798 \uAC15\uD654"
+  Description: "\uCDA9\uB3CC\uD798 (N) \uC99D\uAC00"
+  CardPrefabOverride: {fileID: 0}
+  CardIconSprite: {fileID: 21300000, guid: c8e3f15856d35c74d8533f7cf36a951c, type: 3}
+  CardIconSizeOffset: 0
+  LevelDelta: 1
+  DamageMultiplierBonus: 0
+  MeleeDamageMultiplierBonus: 0
+  MagicDamageMultiplierBonus: 0
+  AttackSpeedMultiplierBonus: 0
+  TurnSpeedBonus: 0
+  CollisionForceBonus: 0.16
+  RejoinRangeBonus: 0
+  NexusHealthBonus: 0

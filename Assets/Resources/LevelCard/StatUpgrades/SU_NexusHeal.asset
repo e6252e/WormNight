@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 208ab95dccfaa9245adfd289527202be, type: 3}
+  m_Name: SU_NexusHeal
+  m_EditorClassIdentifier: Assembly-CSharp::StatUpgradeDefinition
+  CardId: NexusHeal
+  CardState: "\uAE30\uC874"
+  DisplayName: "\uB125\uC11C\uC2A4 \uCCB4\uB825 \uAC15\uD654"
+  Description: "\uB125\uC11C\uC2A4 \uCD5C\uB300 \uCCB4\uB825 (N) \uC99D\uAC00"
+  CardPrefabOverride: {fileID: 0}
+  CardIconSprite: {fileID: 21300000, guid: 9364cbda10cb39c448970631ac44698f, type: 3}
+  CardIconSizeOffset: 0
+  LevelDelta: 1
+  DamageMultiplierBonus: 0
+  MeleeDamageMultiplierBonus: 0
+  MagicDamageMultiplierBonus: 0
+  AttackSpeedMultiplierBonus: 0
+  TurnSpeedBonus: 0
+  CollisionForceBonus: 0
+  RejoinRangeBonus: 0
+  NexusHealthBonus: 10

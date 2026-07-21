@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae6066b584b45f84a84c03d21d919ba7, type: 3}
+  m_Name: StatUpgradeCatalog
+  m_EditorClassIdentifier: Assembly-CSharp::StatUpgradeCatalogAsset
+  DefaultCardPrefab: {fileID: 5093926429036568398, guid: 922b7080113cbd34d8b277e8b5b6ad62, type: 3}
+  Cards:
+  - {fileID: 11400000, guid: 9d96f5e269616754ba6f4684185e0bbd, type: 2}
+  - {fileID: 11400000, guid: 5f197092f5e1f1146a5ef92694d3a4a0, type: 2}
+  - {fileID: 11400000, guid: 979910e6233d49b47a32f1fdf4bc24e8, type: 2}
+  - {fileID: 11400000, guid: 8c0151ad1b5b8bc42b79c104b25626c9, type: 2}
+  - {fileID: 11400000, guid: 590ca8d0c95f53544a863df295fc453c, type: 2}
+  - {fileID: 11400000, guid: 5dfeb60fe2174bb448bb8862655b98c7, type: 2}
+  - {fileID: 11400000, guid: 1eaf50880ad1ca343b4e434afbd55afc, type: 2}
+  - {fileID: 11400000, guid: f72e44345e43edd4498925b70ed7b847, type: 2}

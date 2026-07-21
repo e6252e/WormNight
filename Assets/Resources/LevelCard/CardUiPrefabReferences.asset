@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 668d71dbdd0b49e49aaf1edbcdd1800d, type: 3}
+  m_Name: CardUiPrefabReferences
+  m_EditorClassIdentifier: 
+  segmentChoiceCardPrefab: {fileID: 1511448857506858134, guid: 76fa2678eb380c24bb632931f5597fd4, type: 3}
+  rewardChoiceCardPrefab: {fileID: 5093926429036568398, guid: a6f0c7606f7110a48b91291308e0f524, type: 3}
+  rewardGoldIconSprite: {fileID: 21300000, guid: 53c8108370a2d8446ab1edb7fb516c54, type: 3}
+  rewardExperienceIconSprite: {fileID: 21300000, guid: 6bb1674f45468654bb284a5a91fb664a, type: 3}
+  rewardSegmentChoiceTicketIconSprite: {fileID: 21300000, guid: fad2ec3bd02c2ce4095dc10dd102706b, type: 3}
+  rewardDiamondIconSprite: {fileID: 21300000, guid: bcd5b6cf47afebd46bd1737ab294ec9b, type: 3}
+  statUpgradeCatalog: {fileID: 11400000, guid: 34f8110b24d77af459d733e9b9a9f7cb, type: 2}
+  extraStatUpgradeCards: []
