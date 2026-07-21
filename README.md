@@ -2,9 +2,7 @@
 
 ## 🎥 게임 플레이 영상
 
-<!-- Failed to upload "전체영상.mp4" -->
-
-<!-- Failed to upload "전체영상.mp4" -->
+<!-- Failed to upload "Player.mp4" -->
 
 
 
