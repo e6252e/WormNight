@@ -1,5 +1,9 @@
 
 
+
+
+
+
 <div align="center">
 
 <img src="docs/hero_banner.jpg" alt="WormNight 대표 이미지" width="100%">
@@ -57,7 +61,7 @@ https://github.com/user-attachments/assets/ad5dd931-9e7b-4c0c-b038-022dc6cbb2e1
 레벨업 시 3장의 카드 중 하나를 선택해 성장 방향을 결정합니다.  
 새로운 무기를 확보하거나 보유 무기와 능력치를 강화하면서 자신만의 전투 빌드를 완성합니다.
 
-[![WormNight Gameplay](https://img.youtube.com/vi/w6QETE8xYmw/maxresdefault.jpg)](https://youtu.be/w6QETE8xYmw)
+https://github.com/user-attachments/assets/c543d560-ab18-4413-8eb6-7b6358fdeae8
 
 ### ✨ 3. 스킬 SFX · VFX
 
