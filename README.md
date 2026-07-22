@@ -1,13 +1,6 @@
 
 
 
-
-
-
-
-
-
-
 <div align="center">
 
 <img src="docs/hero_banner.jpg" alt="WormNight 대표 이미지" width="100%">
@@ -21,9 +14,9 @@
 [![Play Video](https://img.shields.io/badge/게임플레이_영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/bW2AYoj8EMo?si=U5g3V52vqesjE9vx)
 [![Download](https://img.shields.io/badge/게임_빌드_다운로드-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1VkQZIn8_dw6294x1DyaUQprYBBwBn_6I/view?usp=sharing)
 
-[![PDF](https://img.shields.io/badge/기술_포트폴리오(PDF)-E53935?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./docs/GM07_오즈_팀프로젝트_1차기능문서_안건준.pdf)
+https://img.shields.io/badge/기술_포트폴리오(PDF)-28A745?style=for-the-badge&logo=adobeacrobatreader&logoColor=white
 
-[![PPT](https://img.shields.io/badge/기술_포트폴리오(PPT)-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](./docs/GM07_오즈_팀프로젝트_1차기능문서_안건준.pptx)
+https://img.shields.io/badge/기술_포트폴리오(PPT)-FFC107?style=for-the-badge&logo=microsoftpowerpoint&logoColor=black
 
 </div>
 
