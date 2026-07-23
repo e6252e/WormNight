@@ -9,7 +9,7 @@
 
 **카드를 선택해 성장하고, 몰려오는 적으로부터 넥서스를 지켜내는 웨이브 디펜스 게임**
 
-[다운로드 링크]
+**[다운로드 링크]**
 <br>
 
 [![Play Video](https://img.shields.io/badge/게임플레이_영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/bW2AYoj8EMo?si=U5g3V52vqesjE9vx)
